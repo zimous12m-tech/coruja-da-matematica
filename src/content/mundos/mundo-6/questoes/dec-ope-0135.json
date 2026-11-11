@@ -1,0 +1,34 @@
+{
+  "id": "dec-ope-0135",
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "subtipo": "adicao",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 8,4 + 9?",
+    "en": "What is 8.4 + 9?",
+    "pt-BR": "Quanto é 8,4 + 9?",
+    "es": "Quanto é 8,4 + 9?"
+  },
+  "opcoes": [
+    "18,4",
+    "0,5999999999999996",
+    "8,4",
+    "17,4"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "8,4 + 9 = 17,4.",
+    "en": "8.4 + 9 = 17.4.",
+    "pt-BR": "8,4 + 9 = 17,4.",
+    "es": "8,4 + 9 = 17,4."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ]
+}

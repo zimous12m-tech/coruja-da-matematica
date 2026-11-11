@@ -1,0 +1,25 @@
+{
+  "id": "per-cal-0002",
+  "worldId": "mundo-4",
+  "topico": "percentagens",
+  "subtipo": "desconto",
+  "dificuldade": 2,
+  "curriculo": ["PT_6ano_MAT_PERCENTAGENS"],
+  "pergunta": {
+    "pt-PT": "Uns ténis custam 80 € e têm 25% de desconto. Quanto pagas?",
+    "en": "Trainers cost €80 with 25% off. How much do you pay?",
+    "pt-BR": "Um tênis custa 80 € com 25% de desconto. Quanto você paga?",
+    "es": "Unas zapatillas cuestan 80 € con un 25% de descuento. ¿Cuánto pagas?"
+  },
+  "visual": { "tipo": "desconto", "precoCentimos": 8000, "percentagem": 25 },
+  "opcoes": ["60 €", "55 €", "65 €", "20 €"],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "25% de 80 = 20 €. Pagas 80 − 20 = 60 €.",
+    "en": "25% of 80 = €20. You pay 80 − 20 = €60.",
+    "pt-BR": "25% de 80 = 20 €. Você paga 80 − 20 = 60 €.",
+    "es": "25% de 80 = 20 €. Pagas 80 − 20 = 60 €."
+  },
+  "tempoSugerido": 30,
+  "tags": ["percentagens", "desconto"]
+}

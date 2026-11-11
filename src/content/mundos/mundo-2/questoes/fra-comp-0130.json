@@ -1,0 +1,45 @@
+{
+  "id": "fra-comp-0130",
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "subtipo": "comparacao",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ],
+  "pergunta": {
+    "pt-PT": "Qual destas frações é maior: 4/6 ou 4/12?",
+    "en": "Which is bigger: 4/6 or 4/12?",
+    "pt-BR": "Qual destas frações é maior: 4/6 ou 4/12?",
+    "es": "Qual destas frações é maior: 4/6 ou 4/12?"
+  },
+  "opcoes": [
+    "5/6",
+    "4/13",
+    "4/12",
+    "4/6"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "Com o mesmo numerador, é maior a fração de menor denominador: 4/6.",
+    "en": "Same numerator: the smaller denominator wins: 4/6.",
+    "pt-BR": "Com o mesmo numerador, é maior a fração de menor denominador: 4/6.",
+    "es": "Com o mesmo numerador, é maior a fração de menor denominador: 4/6."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "fra-comp",
+    "gerado"
+  ],
+  "visual": {
+    "tipo": "fracaoComparada",
+    "a": {
+      "n": 4,
+      "d": 6
+    },
+    "b": {
+      "n": 4,
+      "d": 12
+    }
+  }
+}

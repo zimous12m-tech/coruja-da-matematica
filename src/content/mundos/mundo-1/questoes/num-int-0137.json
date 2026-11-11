@@ -1,0 +1,34 @@
+{
+  "id": "num-int-0137",
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "subtipo": "soma",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 11 − 6?",
+    "en": "What is 11 − 6?",
+    "pt-BR": "Quanto é 11 − 6?",
+    "es": "Quanto é 11 − 6?"
+  },
+  "opcoes": [
+    "17",
+    "6",
+    "5",
+    "-5"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "11 − 6 = 5.",
+    "en": "11 − 6 = 5.",
+    "pt-BR": "11 − 6 = 5.",
+    "es": "11 − 6 = 5."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-int",
+    "gerado"
+  ]
+}

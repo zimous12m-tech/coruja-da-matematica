@@ -1,0 +1,34 @@
+{
+  "id": "dec-ope-0223",
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "subtipo": "adicao",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 7,4 + 8,8?",
+    "en": "What is 7.4 + 8.8?",
+    "pt-BR": "Quanto é 7,4 + 8,8?",
+    "es": "Quanto é 7,4 + 8,8?"
+  },
+  "opcoes": [
+    "7,4",
+    "1,4000000000000004",
+    "16,2",
+    "17,2"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "7,4 + 8,8 = 16,2.",
+    "en": "7.4 + 8.8 = 16.2.",
+    "pt-BR": "7,4 + 8,8 = 16,2.",
+    "es": "7,4 + 8,8 = 16,2."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ]
+}

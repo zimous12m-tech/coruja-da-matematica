@@ -1,0 +1,20 @@
+{
+  "id": "mundo-6",
+  "ordem": 6,
+  "nome": {
+    "pt-PT": "Gabinete da Lógica",
+    "en": "Logic Office"
+  },
+  "descricao": {
+    "pt-PT": "Lógica e números decimais.",
+    "en": "Logic and decimals."
+  },
+  "tema": "logica",
+  "cor": "#7b4be0",
+  "corSuave": "#efe7ff",
+  "icone": "logica",
+  "topicos": [
+    "logica",
+    "decimais"
+  ]
+}

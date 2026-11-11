@@ -1,0 +1,22 @@
+{
+  "id": "mundo-3-nivel-6",
+  "worldId": "mundo-3",
+  "titulo": {
+    "pt-PT": "Boss",
+    "en": "Boss"
+  },
+  "boss": true,
+  "tempoSugerido": 200,
+  "questionIds": [
+    "geo-are-0164",
+    "pot-cal-0166",
+    "geo-are-0167",
+    "geo-are-0168",
+    "geo-are-0170",
+    "geo-are-0171",
+    "geo-are-0172",
+    "geo-are-0174",
+    "geo-are-0176",
+    "pot-cal-0177"
+  ]
+}

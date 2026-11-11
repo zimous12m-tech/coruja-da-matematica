@@ -1,0 +1,39 @@
+{
+  "id": "fra-add-0158",
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "subtipo": "adicao",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 1/5 + 2/5?",
+    "en": "What is 1/5 + 2/5?",
+    "pt-BR": "Quanto é 1/5 + 2/5?",
+    "es": "Quanto é 1/5 + 2/5?"
+  },
+  "opcoes": [
+    "3/10",
+    "4/5",
+    "3/5",
+    "2/5"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "Mesmo denominador: somam-se os numeradores, 1 + 2 = 3. Resultado 3/5.",
+    "en": "Same denominator: add the numerators, 1 + 2 = 3. Result 3/5.",
+    "pt-BR": "Mesmo denominador: somam-se os numeradores, 1 + 2 = 3. Resultado 3/5.",
+    "es": "Mesmo denominador: somam-se os numeradores, 1 + 2 = 3. Resultado 3/5."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "fra-add",
+    "gerado"
+  ],
+  "visual": {
+    "tipo": "pizza",
+    "fatias": 5,
+    "comidas": 3
+  }
+}

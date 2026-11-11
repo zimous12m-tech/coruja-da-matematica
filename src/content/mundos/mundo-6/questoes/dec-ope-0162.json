@@ -1,0 +1,34 @@
+{
+  "id": "dec-ope-0162",
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "subtipo": "adicao",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 8,1 + 7,4?",
+    "en": "What is 8.1 + 7.4?",
+    "pt-BR": "Quanto é 8,1 + 7,4?",
+    "es": "Quanto é 8,1 + 7,4?"
+  },
+  "opcoes": [
+    "0,6999999999999993",
+    "16,5",
+    "15,5",
+    "8,1"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "8,1 + 7,4 = 15,5.",
+    "en": "8.1 + 7.4 = 15.5.",
+    "pt-BR": "8,1 + 7,4 = 15,5.",
+    "es": "8,1 + 7,4 = 15,5."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ]
+}

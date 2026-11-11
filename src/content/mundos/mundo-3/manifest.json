@@ -1,0 +1,20 @@
+{
+  "id": "mundo-3",
+  "ordem": 3,
+  "nome": {
+    "pt-PT": "Oficina da Geometria",
+    "en": "Geometry Workshop"
+  },
+  "descricao": {
+    "pt-PT": "Áreas, perímetros e potências.",
+    "en": "Areas, perimeters and powers."
+  },
+  "tema": "geometria",
+  "cor": "#c2458f",
+  "corSuave": "#fbe9f3",
+  "icone": "geometria",
+  "topicos": [
+    "geometria",
+    "potencias"
+  ]
+}

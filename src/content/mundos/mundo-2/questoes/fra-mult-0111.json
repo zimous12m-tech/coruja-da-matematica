@@ -1,0 +1,34 @@
+{
+  "id": "fra-mult-0111",
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "subtipo": "multiplicacao",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 1/2 × 3/6?",
+    "en": "What is 1/2 × 3/6?",
+    "pt-BR": "Quanto é 1/2 × 3/6?",
+    "es": "Quanto é 1/2 × 3/6?"
+  },
+  "opcoes": [
+    "4/8",
+    "3/12",
+    "6/6",
+    "4/12"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "Multiplicam-se numeradores e denominadores: 3/12.",
+    "en": "Multiply numerators and denominators: 3/12.",
+    "pt-BR": "Multiplicam-se numeradores e denominadores: 3/12.",
+    "es": "Multiplicam-se numeradores e denominadores: 3/12."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "fra-mult",
+    "gerado"
+  ]
+}

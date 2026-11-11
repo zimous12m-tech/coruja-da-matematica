@@ -1,0 +1,34 @@
+{
+  "id": "num-int-0107",
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "subtipo": "soma",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 12 − 1?",
+    "en": "What is 12 − 1?",
+    "pt-BR": "Quanto é 12 − 1?",
+    "es": "Quanto é 12 − 1?"
+  },
+  "opcoes": [
+    "11",
+    "13",
+    "12",
+    "-11"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "12 − 1 = 11.",
+    "en": "12 − 1 = 11.",
+    "pt-BR": "12 − 1 = 11.",
+    "es": "12 − 1 = 11."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "num-int",
+    "gerado"
+  ]
+}

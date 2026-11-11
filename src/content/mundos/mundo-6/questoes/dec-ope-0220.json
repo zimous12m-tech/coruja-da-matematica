@@ -1,0 +1,34 @@
+{
+  "id": "dec-ope-0220",
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "subtipo": "adicao",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 2 + 3,1?",
+    "en": "What is 2 + 3.1?",
+    "pt-BR": "Quanto é 2 + 3,1?",
+    "es": "Quanto é 2 + 3,1?"
+  },
+  "opcoes": [
+    "1,1",
+    "2",
+    "5,1",
+    "6,1"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "2 + 3,1 = 5,1.",
+    "en": "2 + 3.1 = 5.1.",
+    "pt-BR": "2 + 3,1 = 5,1.",
+    "es": "2 + 3,1 = 5,1."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ]
+}

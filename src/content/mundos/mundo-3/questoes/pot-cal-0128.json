@@ -1,0 +1,34 @@
+{
+  "id": "pot-cal-0128",
+  "worldId": "mundo-3",
+  "topico": "potencias",
+  "subtipo": "calculo",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_POTENCIAS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 5 elevado a 4?",
+    "en": "What is 5 to the power of 4?",
+    "pt-BR": "Quanto é 5 elevado a 4?",
+    "es": "Quanto é 5 elevado a 4?"
+  },
+  "opcoes": [
+    "620",
+    "625",
+    "630",
+    "20"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "5 × 5 × 5 × 5 = 625.",
+    "en": "5 × 5 × 5 × 5 = 625.",
+    "pt-BR": "5 × 5 × 5 × 5 = 625.",
+    "es": "5 × 5 × 5 × 5 = 625."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "pot-cal",
+    "gerado"
+  ]
+}

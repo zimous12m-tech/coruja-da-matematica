@@ -1,0 +1,34 @@
+{
+  "id": "est-med-0149",
+  "worldId": "mundo-5",
+  "topico": "estatistica",
+  "subtipo": "media",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_ESTATISTICA"
+  ],
+  "pergunta": {
+    "pt-PT": "Qual é a média de 13, 20, 7, 16?",
+    "en": "What is the mean of 13, 20, 7, 16?",
+    "pt-BR": "Qual é a média de 13, 20, 7, 16?",
+    "es": "Qual é a média de 13, 20, 7, 16?"
+  },
+  "opcoes": [
+    "14",
+    "15",
+    "16",
+    "56"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Soma = 56. Divide por 4: 56 ÷ 4 = 14.",
+    "en": "Sum = 56. Divide by 4: 56 ÷ 4 = 14.",
+    "pt-BR": "Soma = 56. Divide por 4: 56 ÷ 4 = 14.",
+    "es": "Soma = 56. Divide por 4: 56 ÷ 4 = 14."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "est-med",
+    "gerado"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "equ-res-0139",
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "subtipo": "resolucao",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ],
+  "pergunta": {
+    "pt-PT": "Resolve a equação 7x + 6 = 20.",
+    "en": "Solve 7x + 6 = 20.",
+    "pt-BR": "Resolve a equação 7x + 6 = 20.",
+    "es": "Resolve a equação 7x + 6 = 20."
+  },
+  "opcoes": [
+    "14",
+    "3",
+    "20",
+    "2"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "7x = 20 − 6 = 14. Então x = 14 ÷ 7 = 2.",
+    "en": "7x = 20 − 6 = 14. So x = 14 ÷ 7 = 2.",
+    "pt-BR": "7x = 20 − 6 = 14. Então x = 14 ÷ 7 = 2.",
+    "es": "7x = 20 − 6 = 14. Então x = 14 ÷ 7 = 2."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ]
+}

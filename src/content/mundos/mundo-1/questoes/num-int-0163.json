@@ -1,0 +1,34 @@
+{
+  "id": "num-int-0163",
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "subtipo": "soma",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 29 − 40?",
+    "en": "What is 29 − 40?",
+    "pt-BR": "Quanto é 29 − 40?",
+    "es": "Quanto é 29 − 40?"
+  },
+  "opcoes": [
+    "-11",
+    "69",
+    "-10",
+    "11"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "29 − 40 = -11.",
+    "en": "29 − 40 = -11.",
+    "pt-BR": "29 − 40 = -11.",
+    "es": "29 − 40 = -11."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-int",
+    "gerado"
+  ]
+}

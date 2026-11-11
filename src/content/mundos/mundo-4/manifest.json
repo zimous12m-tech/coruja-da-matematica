@@ -1,0 +1,20 @@
+{
+  "id": "mundo-4",
+  "ordem": 4,
+  "nome": {
+    "pt-PT": "Mercado das Percentagens",
+    "en": "Percentage Market"
+  },
+  "descricao": {
+    "pt-PT": "Percentagens e proporções.",
+    "en": "Percentages and proportions."
+  },
+  "tema": "percentagens",
+  "cor": "#1fa97a",
+  "corSuave": "#e3f7ee",
+  "icone": "percentagens",
+  "topicos": [
+    "percentagens",
+    "proporcionalidade"
+  ]
+}

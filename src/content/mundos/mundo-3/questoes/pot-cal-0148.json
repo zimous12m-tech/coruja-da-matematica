@@ -1,0 +1,34 @@
+{
+  "id": "pot-cal-0148",
+  "worldId": "mundo-3",
+  "topico": "potencias",
+  "subtipo": "calculo",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_POTENCIAS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 9 elevado a 3?",
+    "en": "What is 9 to the power of 3?",
+    "pt-BR": "Quanto é 9 elevado a 3?",
+    "es": "Quanto é 9 elevado a 3?"
+  },
+  "opcoes": [
+    "738",
+    "27",
+    "720",
+    "729"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "9 × 9 × 9 = 729.",
+    "en": "9 × 9 × 9 = 729.",
+    "pt-BR": "9 × 9 × 9 = 729.",
+    "es": "9 × 9 × 9 = 729."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "pot-cal",
+    "gerado"
+  ]
+}

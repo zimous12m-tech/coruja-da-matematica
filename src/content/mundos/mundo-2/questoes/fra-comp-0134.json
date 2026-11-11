@@ -1,0 +1,45 @@
+{
+  "id": "fra-comp-0134",
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "subtipo": "comparacao",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ],
+  "pergunta": {
+    "pt-PT": "Qual destas frações é maior: 7/8 ou 7/24?",
+    "en": "Which is bigger: 7/8 or 7/24?",
+    "pt-BR": "Qual destas frações é maior: 7/8 ou 7/24?",
+    "es": "Qual destas frações é maior: 7/8 ou 7/24?"
+  },
+  "opcoes": [
+    "7/8",
+    "7/24",
+    "8/8",
+    "7/25"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Com o mesmo numerador, é maior a fração de menor denominador: 7/8.",
+    "en": "Same numerator: the smaller denominator wins: 7/8.",
+    "pt-BR": "Com o mesmo numerador, é maior a fração de menor denominador: 7/8.",
+    "es": "Com o mesmo numerador, é maior a fração de menor denominador: 7/8."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "fra-comp",
+    "gerado"
+  ],
+  "visual": {
+    "tipo": "fracaoComparada",
+    "a": {
+      "n": 7,
+      "d": 8
+    },
+    "b": {
+      "n": 7,
+      "d": 24
+    }
+  }
+}

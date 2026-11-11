@@ -1,0 +1,34 @@
+{
+  "id": "num-nat-0164",
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "subtipo": "valor-posicional",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ],
+  "pergunta": {
+    "pt-PT": "No número 598366, qual é o valor do algarismo 9?",
+    "en": "In the number 598366, what is the value of the digit 9?",
+    "pt-BR": "No número 598366, qual é o valor do algarismo 9?",
+    "es": "No número 598366, qual é o valor do algarismo 9?"
+  },
+  "opcoes": [
+    "100000",
+    "9",
+    "900000",
+    "90000"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "O 9 está na ordem das dezenas de milhar, por isso vale 90000.",
+    "en": "The 9 is in the ten-thousands place, so it is worth 90000.",
+    "pt-BR": "O 9 está na ordem das dezenas de milhar, por isso vale 90000.",
+    "es": "O 9 está na ordem das dezenas de milhar, por isso vale 90000."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ]
+}

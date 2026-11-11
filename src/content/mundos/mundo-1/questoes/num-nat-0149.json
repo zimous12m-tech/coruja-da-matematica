@@ -1,0 +1,34 @@
+{
+  "id": "num-nat-0149",
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "subtipo": "valor-posicional",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ],
+  "pergunta": {
+    "pt-PT": "No número 72250, qual é o valor do algarismo 2?",
+    "en": "In the number 72250, what is the value of the digit 2?",
+    "pt-BR": "No número 72250, qual é o valor do algarismo 2?",
+    "es": "No número 72250, qual é o valor do algarismo 2?"
+  },
+  "opcoes": [
+    "3000",
+    "2",
+    "2000",
+    "20000"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "O 2 está na ordem das milhares, por isso vale 2000.",
+    "en": "The 2 is in the thousands place, so it is worth 2000.",
+    "pt-BR": "O 2 está na ordem das milhares, por isso vale 2000.",
+    "es": "O 2 está na ordem das milhares, por isso vale 2000."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ]
+}

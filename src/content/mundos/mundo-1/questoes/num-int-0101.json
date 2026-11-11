@@ -1,0 +1,34 @@
+{
+  "id": "num-int-0101",
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "subtipo": "soma",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 12 − 2?",
+    "en": "What is 12 − 2?",
+    "pt-BR": "Quanto é 12 − 2?",
+    "es": "Quanto é 12 − 2?"
+  },
+  "opcoes": [
+    "14",
+    "10",
+    "-10",
+    "11"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "12 − 2 = 10.",
+    "en": "12 − 2 = 10.",
+    "pt-BR": "12 − 2 = 10.",
+    "es": "12 − 2 = 10."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "num-int",
+    "gerado"
+  ]
+}

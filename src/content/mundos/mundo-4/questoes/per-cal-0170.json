@@ -1,0 +1,34 @@
+{
+  "id": "per-cal-0170",
+  "worldId": "mundo-4",
+  "topico": "percentagens",
+  "subtipo": "calculo",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_PERCENTAGENS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 25 % de 120?",
+    "en": "What is 25 % of 120?",
+    "pt-BR": "Quanto é 25 % de 120?",
+    "es": "Quanto é 25 % de 120?"
+  },
+  "opcoes": [
+    "30",
+    "3000",
+    "35",
+    "4.8"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "25 % é 25 em cada 100: 120 ÷ 100 × 25 = 30.",
+    "en": "25 % is 25 in every 100: 120 ÷ 100 × 25 = 30.",
+    "pt-BR": "25 % é 25 em cada 100: 120 ÷ 100 × 25 = 30.",
+    "es": "25 % é 25 em cada 100: 120 ÷ 100 × 25 = 30."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "per-cal",
+    "gerado"
+  ]
+}

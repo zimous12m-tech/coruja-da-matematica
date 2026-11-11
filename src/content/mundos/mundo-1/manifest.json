@@ -1,0 +1,20 @@
+{
+  "id": "mundo-1",
+  "ordem": 1,
+  "nome": {
+    "pt-PT": "Vale dos Números",
+    "en": "Number Valley"
+  },
+  "descricao": {
+    "pt-PT": "Valor posicional e números inteiros.",
+    "en": "Place value and integers."
+  },
+  "tema": "numeros",
+  "cor": "#2c8fe0",
+  "corSuave": "#e7f2fc",
+  "icone": "numeros",
+  "topicos": [
+    "numeros",
+    "inteiros"
+  ]
+}

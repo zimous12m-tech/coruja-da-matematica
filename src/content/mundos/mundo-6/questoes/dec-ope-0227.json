@@ -1,0 +1,34 @@
+{
+  "id": "dec-ope-0227",
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "subtipo": "adicao",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 4,7 + 4,6?",
+    "en": "What is 4.7 + 4.6?",
+    "pt-BR": "Quanto é 4,7 + 4,6?",
+    "es": "Quanto é 4,7 + 4,6?"
+  },
+  "opcoes": [
+    "0,10000000000000053",
+    "4,7",
+    "10,3",
+    "9,3"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "4,7 + 4,6 = 9,3.",
+    "en": "4.7 + 4.6 = 9.3.",
+    "pt-BR": "4,7 + 4,6 = 9,3.",
+    "es": "4,7 + 4,6 = 9,3."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ]
+}

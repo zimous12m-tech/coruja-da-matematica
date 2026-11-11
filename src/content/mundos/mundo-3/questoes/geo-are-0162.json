@@ -1,0 +1,34 @@
+{
+  "id": "geo-are-0162",
+  "worldId": "mundo-3",
+  "topico": "geometria",
+  "subtipo": "area",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_GEOMETRIA"
+  ],
+  "pergunta": {
+    "pt-PT": "Um retângulo tem 8 cm de comprimento e 13 cm de largura. Qual é a área?",
+    "en": "A rectangle is 8 cm long and 13 cm wide. What is the area?",
+    "pt-BR": "Um retângulo tem 8 cm de comprimento e 13 cm de largura. Qual é a área?",
+    "es": "Um retângulo tem 8 cm de comprimento e 13 cm de largura. Qual é a área?"
+  },
+  "opcoes": [
+    "112 cm²",
+    "104 cm²",
+    "21 cm²",
+    "42 cm²"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "Área = comprimento × largura = 8 × 13 = 104 cm².",
+    "en": "Area = length × width = 8 × 13 = 104 cm².",
+    "pt-BR": "Área = comprimento × largura = 8 × 13 = 104 cm².",
+    "es": "Área = comprimento × largura = 8 × 13 = 104 cm²."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "geo-are",
+    "gerado"
+  ]
+}

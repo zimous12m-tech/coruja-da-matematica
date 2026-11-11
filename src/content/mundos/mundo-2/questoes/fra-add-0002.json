@@ -1,0 +1,29 @@
+{
+  "id": "fra-add-0002",
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "subtipo": "comparacao",
+  "dificuldade": 2,
+  "curriculo": ["PT_6ano_MAT_FRACOES"],
+  "pergunta": {
+    "pt-PT": "Qual destas frações é maior: 3/4 ou 5/8?",
+    "en": "Which fraction is bigger: 3/4 or 5/8?",
+    "pt-BR": "Qual destas frações é maior: 3/4 ou 5/8?",
+    "es": "¿Cuál de estas fracciones es mayor: 3/4 o 5/8?"
+  },
+  "visual": {
+    "tipo": "fracaoComparada",
+    "a": { "n": 3, "d": 4 },
+    "b": { "n": 5, "d": 8 }
+  },
+  "opcoes": ["3/4", "5/8", "São iguais", "Não dá para saber"],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "3/4 = 6/8, e 6/8 > 5/8. Por isso 3/4 é maior.",
+    "en": "3/4 = 6/8 and 6/8 > 5/8. So 3/4 is bigger.",
+    "pt-BR": "3/4 = 6/8 e 6/8 > 5/8. Por isso 3/4 é maior.",
+    "es": "3/4 = 6/8 y 6/8 > 5/8. Por eso 3/4 es mayor."
+  },
+  "tempoSugerido": 30,
+  "tags": ["fracoes", "comparacao"]
+}

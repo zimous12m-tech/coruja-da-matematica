@@ -1,0 +1,34 @@
+{
+  "id": "num-nat-0140",
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "subtipo": "valor-posicional",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ],
+  "pergunta": {
+    "pt-PT": "No número 76751, qual é o valor do algarismo 6?",
+    "en": "In the number 76751, what is the value of the digit 6?",
+    "pt-BR": "No número 76751, qual é o valor do algarismo 6?",
+    "es": "No número 76751, qual é o valor do algarismo 6?"
+  },
+  "opcoes": [
+    "6",
+    "60000",
+    "6000",
+    "7000"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "O 6 está na ordem das milhares, por isso vale 6000.",
+    "en": "The 6 is in the thousands place, so it is worth 6000.",
+    "pt-BR": "O 6 está na ordem das milhares, por isso vale 6000.",
+    "es": "O 6 está na ordem das milhares, por isso vale 6000."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ]
+}

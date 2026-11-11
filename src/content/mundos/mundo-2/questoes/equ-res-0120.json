@@ -1,0 +1,34 @@
+{
+  "id": "equ-res-0120",
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "subtipo": "resolucao",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ],
+  "pergunta": {
+    "pt-PT": "Resolve a equação 7x + 7 = 49.",
+    "en": "Solve 7x + 7 = 49.",
+    "pt-BR": "Resolve a equação 7x + 7 = 49.",
+    "es": "Resolve a equação 7x + 7 = 49."
+  },
+  "opcoes": [
+    "42",
+    "7",
+    "49",
+    "6"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "7x = 49 − 7 = 42. Então x = 42 ÷ 7 = 6.",
+    "en": "7x = 49 − 7 = 42. So x = 42 ÷ 7 = 6.",
+    "pt-BR": "7x = 49 − 7 = 42. Então x = 42 ÷ 7 = 6.",
+    "es": "7x = 49 − 7 = 42. Então x = 42 ÷ 7 = 6."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ]
+}

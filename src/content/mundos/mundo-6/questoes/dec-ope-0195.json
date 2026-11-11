@@ -1,0 +1,34 @@
+{
+  "id": "dec-ope-0195",
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "subtipo": "adicao",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 4,5 + 4,7?",
+    "en": "What is 4.5 + 4.7?",
+    "pt-BR": "Quanto é 4,5 + 4,7?",
+    "es": "Quanto é 4,5 + 4,7?"
+  },
+  "opcoes": [
+    "0,20000000000000018",
+    "4,5",
+    "10,2",
+    "9,2"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "4,5 + 4,7 = 9,2.",
+    "en": "4.5 + 4.7 = 9.2.",
+    "pt-BR": "4,5 + 4,7 = 9,2.",
+    "es": "4,5 + 4,7 = 9,2."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ]
+}

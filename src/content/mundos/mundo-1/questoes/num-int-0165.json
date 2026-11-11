@@ -1,0 +1,34 @@
+{
+  "id": "num-int-0165",
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "subtipo": "soma",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 20 − 15?",
+    "en": "What is 20 − 15?",
+    "pt-BR": "Quanto é 20 − 15?",
+    "es": "Quanto é 20 − 15?"
+  },
+  "opcoes": [
+    "5",
+    "35",
+    "6",
+    "-5"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "20 − 15 = 5.",
+    "en": "20 − 15 = 5.",
+    "pt-BR": "20 − 15 = 5.",
+    "es": "20 − 15 = 5."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-int",
+    "gerado"
+  ]
+}

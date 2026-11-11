@@ -1,0 +1,22 @@
+{
+  "id": "mundo-6-nivel-4",
+  "worldId": "mundo-6",
+  "titulo": {
+    "pt-PT": "Nível 4",
+    "en": "Level 4"
+  },
+  "boss": false,
+  "tempoSugerido": 230,
+  "questionIds": [
+    "dec-ope-0171",
+    "dec-ope-0172",
+    "dec-ope-0177",
+    "dec-ope-0180",
+    "dec-ope-0181",
+    "dec-ope-0182",
+    "dec-ope-0183",
+    "dec-ope-0184",
+    "dec-ope-0186",
+    "dec-ope-0193"
+  ]
+}

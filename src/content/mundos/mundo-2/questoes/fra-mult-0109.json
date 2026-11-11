@@ -1,0 +1,34 @@
+{
+  "id": "fra-mult-0109",
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "subtipo": "multiplicacao",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 2/4 × 3/2?",
+    "en": "What is 2/4 × 3/2?",
+    "pt-BR": "Quanto é 2/4 × 3/2?",
+    "es": "Quanto é 2/4 × 3/2?"
+  },
+  "opcoes": [
+    "5/6",
+    "6/8",
+    "4/12",
+    "7/8"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "Multiplicam-se numeradores e denominadores: 6/8.",
+    "en": "Multiply numerators and denominators: 6/8.",
+    "pt-BR": "Multiplicam-se numeradores e denominadores: 6/8.",
+    "es": "Multiplicam-se numeradores e denominadores: 6/8."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "fra-mult",
+    "gerado"
+  ]
+}

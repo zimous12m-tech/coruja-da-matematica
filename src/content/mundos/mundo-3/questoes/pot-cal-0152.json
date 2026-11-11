@@ -1,0 +1,34 @@
+{
+  "id": "pot-cal-0152",
+  "worldId": "mundo-3",
+  "topico": "potencias",
+  "subtipo": "calculo",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_POTENCIAS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 6 elevado a 2?",
+    "en": "What is 6 to the power of 2?",
+    "pt-BR": "Quanto é 6 elevado a 2?",
+    "es": "Quanto é 6 elevado a 2?"
+  },
+  "opcoes": [
+    "12",
+    "36",
+    "30",
+    "42"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "6 × 6 = 36.",
+    "en": "6 × 6 = 36.",
+    "pt-BR": "6 × 6 = 36.",
+    "es": "6 × 6 = 36."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "pot-cal",
+    "gerado"
+  ]
+}

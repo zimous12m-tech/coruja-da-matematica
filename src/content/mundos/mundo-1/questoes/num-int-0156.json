@@ -1,0 +1,34 @@
+{
+  "id": "num-int-0156",
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "subtipo": "soma",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 7 − 19?",
+    "en": "What is 7 − 19?",
+    "pt-BR": "Quanto é 7 − 19?",
+    "es": "Quanto é 7 − 19?"
+  },
+  "opcoes": [
+    "12",
+    "-12",
+    "-11",
+    "26"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "7 − 19 = -12.",
+    "en": "7 − 19 = -12.",
+    "pt-BR": "7 − 19 = -12.",
+    "es": "7 − 19 = -12."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-int",
+    "gerado"
+  ]
+}

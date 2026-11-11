@@ -1,0 +1,24 @@
+{
+  "id": "per-cal-0001",
+  "worldId": "mundo-4",
+  "topico": "percentagens",
+  "subtipo": "calculo",
+  "dificuldade": 1,
+  "curriculo": ["PT_6ano_MAT_PERCENTAGENS"],
+  "pergunta": {
+    "pt-PT": "Quanto é 25% de 80?",
+    "en": "What is 25% of 80?",
+    "pt-BR": "Quanto é 25% de 80?",
+    "es": "¿Cuánto es el 25% de 80?"
+  },
+  "opcoes": ["20", "25", "30", "2000"],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "25% = 1/4. 80 ÷ 4 = 20.",
+    "en": "25% = 1/4. 80 ÷ 4 = 20.",
+    "pt-BR": "25% = 1/4. 80 ÷ 4 = 20.",
+    "es": "25% = 1/4. 80 ÷ 4 = 20."
+  },
+  "tempoSugerido": 30,
+  "tags": ["percentagens", "calculo"]
+}

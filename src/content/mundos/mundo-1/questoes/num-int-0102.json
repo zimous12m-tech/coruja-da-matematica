@@ -1,0 +1,34 @@
+{
+  "id": "num-int-0102",
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "subtipo": "soma",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 9 − 3?",
+    "en": "What is 9 − 3?",
+    "pt-BR": "Quanto é 9 − 3?",
+    "es": "Quanto é 9 − 3?"
+  },
+  "opcoes": [
+    "6",
+    "12",
+    "-6",
+    "7"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "9 − 3 = 6.",
+    "en": "9 − 3 = 6.",
+    "pt-BR": "9 − 3 = 6.",
+    "es": "9 − 3 = 6."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "num-int",
+    "gerado"
+  ]
+}

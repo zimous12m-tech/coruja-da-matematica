@@ -1,0 +1,34 @@
+{
+  "id": "dec-ope-0209",
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "subtipo": "adicao",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 1,7 + 1,6?",
+    "en": "What is 1.7 + 1.6?",
+    "pt-BR": "Quanto é 1,7 + 1,6?",
+    "es": "Quanto é 1,7 + 1,6?"
+  },
+  "opcoes": [
+    "1,7",
+    "3,3",
+    "0,09999999999999987",
+    "4,3"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "1,7 + 1,6 = 3,3.",
+    "en": "1.7 + 1.6 = 3.3.",
+    "pt-BR": "1,7 + 1,6 = 3,3.",
+    "es": "1,7 + 1,6 = 3,3."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ]
+}

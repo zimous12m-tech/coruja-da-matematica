@@ -1,0 +1,24 @@
+{
+  "id": "est-med-0001",
+  "worldId": "mundo-5",
+  "topico": "estatistica",
+  "subtipo": "media",
+  "dificuldade": 1,
+  "curriculo": ["PT_6ano_MAT_ESTATISTICA"],
+  "pergunta": {
+    "pt-PT": "Qual é a média de 4, 6, 8 e 10?",
+    "en": "What is the mean of 4, 6, 8 and 10?",
+    "pt-BR": "Qual é a média de 4, 6, 8 e 10?",
+    "es": "¿Cuál es la media de 4, 6, 8 y 10?"
+  },
+  "opcoes": ["7", "6", "8", "28"],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Soma = 28. Divide por 4: 28 ÷ 4 = 7.",
+    "en": "Sum = 28. Divide by 4: 28 ÷ 4 = 7.",
+    "pt-BR": "Soma = 28. Divide por 4: 28 ÷ 4 = 7.",
+    "es": "Suma = 28. Divide por 4: 28 ÷ 4 = 7."
+  },
+  "tempoSugerido": 30,
+  "tags": ["estatistica", "media"]
+}

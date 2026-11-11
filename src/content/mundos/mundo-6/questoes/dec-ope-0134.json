@@ -1,0 +1,34 @@
+{
+  "id": "dec-ope-0134",
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "subtipo": "adicao",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 5,8 + 1,5?",
+    "en": "What is 5.8 + 1.5?",
+    "pt-BR": "Quanto é 5,8 + 1,5?",
+    "es": "Quanto é 5,8 + 1,5?"
+  },
+  "opcoes": [
+    "7,3",
+    "5,8",
+    "4,3",
+    "8,3"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "5,8 + 1,5 = 7,3.",
+    "en": "5.8 + 1.5 = 7.3.",
+    "pt-BR": "5,8 + 1,5 = 7,3.",
+    "es": "5,8 + 1,5 = 7,3."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ]
+}

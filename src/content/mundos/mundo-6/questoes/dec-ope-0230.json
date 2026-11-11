@@ -1,0 +1,34 @@
+{
+  "id": "dec-ope-0230",
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "subtipo": "adicao",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 1,2 + 4,3?",
+    "en": "What is 1.2 + 4.3?",
+    "pt-BR": "Quanto é 1,2 + 4,3?",
+    "es": "Quanto é 1,2 + 4,3?"
+  },
+  "opcoes": [
+    "3,0999999999999996",
+    "6,5",
+    "1,2",
+    "5,5"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "1,2 + 4,3 = 5,5.",
+    "en": "1.2 + 4.3 = 5.5.",
+    "pt-BR": "1,2 + 4,3 = 5,5.",
+    "es": "1,2 + 4,3 = 5,5."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "geo-are-0174",
+  "worldId": "mundo-3",
+  "topico": "geometria",
+  "subtipo": "area",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_GEOMETRIA"
+  ],
+  "pergunta": {
+    "pt-PT": "Um retângulo tem 13 cm de comprimento e 15 cm de largura. Qual é a área?",
+    "en": "A rectangle is 13 cm long and 15 cm wide. What is the area?",
+    "pt-BR": "Um retângulo tem 13 cm de comprimento e 15 cm de largura. Qual é a área?",
+    "es": "Um retângulo tem 13 cm de comprimento e 15 cm de largura. Qual é a área?"
+  },
+  "opcoes": [
+    "195 cm²",
+    "208 cm²",
+    "28 cm²",
+    "56 cm²"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Área = comprimento × largura = 13 × 15 = 195 cm².",
+    "en": "Area = length × width = 13 × 15 = 195 cm².",
+    "pt-BR": "Área = comprimento × largura = 13 × 15 = 195 cm².",
+    "es": "Área = comprimento × largura = 13 × 15 = 195 cm²."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "geo-are",
+    "gerado"
+  ]
+}

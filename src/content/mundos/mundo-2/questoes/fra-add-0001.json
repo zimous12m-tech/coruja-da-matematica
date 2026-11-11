@@ -1,0 +1,25 @@
+{
+  "id": "fra-add-0001",
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "subtipo": "adicao",
+  "dificuldade": 1,
+  "curriculo": ["PT_6ano_MAT_FRACOES"],
+  "pergunta": {
+    "pt-PT": "Quanto é 1/4 + 2/4?",
+    "en": "What is 1/4 + 2/4?",
+    "pt-BR": "Quanto é 1/4 + 2/4?",
+    "es": "¿Cuánto es 1/4 + 2/4?"
+  },
+  "visual": { "tipo": "pizza", "fatias": 4, "comidas": 3 },
+  "opcoes": ["3/4", "3/8", "2/8", "1/2"],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Mesmo denominador: somam-se os numeradores. 1 + 2 = 3, resultado 3/4.",
+    "en": "Same denominator: add the numerators. 1 + 2 = 3, result 3/4.",
+    "pt-BR": "Mesmo denominador: somam-se os numeradores. 1 + 2 = 3, resultado 3/4.",
+    "es": "Mismo denominador: suma los numeradores. 1 + 2 = 3, resultado 3/4."
+  },
+  "tempoSugerido": 30,
+  "tags": ["fracoes", "adicao"]
+}

@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "Coruja Matematica",
+    "subtitle": "Treine matematica do 6o ano com a Professora Coruja."
+  },
+  "common": {
+    "back": "Voltar"
+  },
+  "menu": {
+    "play": "Jogar",
+    "coins": "Penas: {{count}}",
+    "language": "Idioma"
+  },
+  "world": {
+    "title": "Escolha um mundo",
+    "stars": "{{done}} / {{total}} estrelas"
+  },
+  "game": {
+    "exit": "Sair",
+    "progress": "Pergunta {{current}} de {{total}}",
+    "correct": "Boa! Voce acertou.",
+    "wrong": "Quase. Veja a explicacao.",
+    "explanation": "Explicacao",
+    "next": "Proxima",
+    "finish": "Terminar"
+  },
+  "complete": {
+    "title": "Nivel completo!",
+    "score": "Voce acertou {{correct}} de {{total}}.",
+    "coins": "Voce ganhou {{count}} penas.",
+    "repeat": "Repetir",
+    "nextLevel": "Proximo nivel",
+    "backToMap": "Voltar ao mapa"
+  },
+  "settings": {
+    "title": "Configuracoes",
+    "sound": "Som",
+    "music": "Musica",
+    "timed": "Sem tempo",
+    "buttonsOnly": "So botoes",
+    "highContrast": "Alto contraste",
+    "dyslexia": "Fonte para dislexia"
+  },
+  "parents": {
+    "title": "Zona dos pais",
+    "gate": "Quanto e {{a}} x {{b}}?",
+    "gateError": "Resposta errada. Tente de novo.",
+    "enter": "Entrar",
+    "report": "Relatorio de progresso",
+    "level": "Nivel",
+    "stars": "Estrelas",
+    "empty": "Ainda sem niveis concluidos.",
+    "coins": "Penas: {{count}}",
+    "totalStars": "Estrelas totais: {{count}}"
+  },
+  "credits": {
+    "title": "Creditos",
+    "team": "Equipe",
+    "teamText": "Jogo desenvolvido como projeto educativo independente.",
+    "tech": "Tecnologias",
+    "techText": "Phaser, TypeScript, Vite, i18next, Zod.",
+    "privacy": "Privacidade",
+    "privacyText": "Sem anuncios nem dados pessoais. O progresso fica no dispositivo."
+  },
+  "onboarding": {
+    "welcome": "Ola! Sou a Professora Coruja.",
+    "welcomeText": "Vamos aprender matematica juntos, com jogos e desafios.",
+    "howTo": "Como funciona",
+    "howToText": "Escolha um mundo, responda as perguntas e ganhe estrelas. Se errar, veja a explicacao e tente outra vez.",
+    "ready": "Pronto para comecar?",
+    "readyText": "6 mundos, 36 niveis, 360 desafios esperando por voce.",
+    "next": "Proximo",
+    "start": "Vamos jogar!",
+    "skip": "Pular"
+  },
+  "profile": {
+    "title": "Perfil",
+    "stars": "estrelas",
+    "coins": "penas",
+    "streak": "dias",
+    "achievements": "Conquistas"
+  },
+  "daily": {
+    "title": "Desafio do dia",
+    "intro": "3 perguntas. +30 penas se acertar todas.",
+    "alreadyDone": "Voce ja fez o desafio de hoje",
+    "perfect": "Desafio perfeito!",
+    "comeBack": "Volte amanha para um novo desafio."
+  }
+}

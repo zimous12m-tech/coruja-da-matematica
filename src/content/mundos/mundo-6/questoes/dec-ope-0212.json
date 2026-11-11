@@ -1,0 +1,34 @@
+{
+  "id": "dec-ope-0212",
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "subtipo": "adicao",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 4,8 + 4?",
+    "en": "What is 4.8 + 4?",
+    "pt-BR": "Quanto é 4,8 + 4?",
+    "es": "Quanto é 4,8 + 4?"
+  },
+  "opcoes": [
+    "4,8",
+    "0,7999999999999998",
+    "9,8",
+    "8,8"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "4,8 + 4 = 8,8.",
+    "en": "4.8 + 4 = 8.8.",
+    "pt-BR": "4,8 + 4 = 8,8.",
+    "es": "4,8 + 4 = 8,8."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ]
+}

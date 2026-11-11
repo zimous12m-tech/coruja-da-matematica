@@ -1,0 +1,24 @@
+{
+  "id": "log-pro-0002",
+  "worldId": "mundo-6",
+  "topico": "logica",
+  "subtipo": "deducao",
+  "dificuldade": 2,
+  "curriculo": ["PT_6ano_MAT_LOGICA"],
+  "pergunta": {
+    "pt-PT": "A é mais velha do que B e C é mais nova do que B. Quem é a mais velha?",
+    "en": "A is older than B and C is younger than B. Who is the oldest?",
+    "pt-BR": "A é mais velha do que B e C é mais nova do que B. Quem é a mais velha?",
+    "es": "A es mayor que B y C es menor que B. ¿Quién es la mayor?"
+  },
+  "opcoes": ["A", "B", "C", "Não é possível saber"],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Se A > B e B > C, então A > B > C. A é a mais velha.",
+    "en": "If A > B and B > C, then A > B > C. A is the oldest.",
+    "pt-BR": "Se A > B e B > C, então A > B > C. A é a mais velha.",
+    "es": "Si A > B y B > C, entonces A > B > C. A es la mayor."
+  },
+  "tempoSugerido": 30,
+  "tags": ["logica", "deducao"]
+}

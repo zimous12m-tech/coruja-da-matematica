@@ -1,0 +1,34 @@
+{
+  "id": "num-nat-0125",
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "subtipo": "valor-posicional",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ],
+  "pergunta": {
+    "pt-PT": "No número 67173, qual é o valor do algarismo 7?",
+    "en": "In the number 67173, what is the value of the digit 7?",
+    "pt-BR": "No número 67173, qual é o valor do algarismo 7?",
+    "es": "No número 67173, qual é o valor do algarismo 7?"
+  },
+  "opcoes": [
+    "7",
+    "8000",
+    "7000",
+    "70000"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "O 7 está na ordem das milhares, por isso vale 7000.",
+    "en": "The 7 is in the thousands place, so it is worth 7000.",
+    "pt-BR": "O 7 está na ordem das milhares, por isso vale 7000.",
+    "es": "O 7 está na ordem das milhares, por isso vale 7000."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ]
+}

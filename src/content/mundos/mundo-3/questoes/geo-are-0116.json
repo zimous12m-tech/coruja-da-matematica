@@ -1,0 +1,34 @@
+{
+  "id": "geo-are-0116",
+  "worldId": "mundo-3",
+  "topico": "geometria",
+  "subtipo": "area",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_GEOMETRIA"
+  ],
+  "pergunta": {
+    "pt-PT": "Um retângulo tem 5 cm de comprimento e 10 cm de largura. Qual é a área?",
+    "en": "A rectangle is 5 cm long and 10 cm wide. What is the area?",
+    "pt-BR": "Um retângulo tem 5 cm de comprimento e 10 cm de largura. Qual é a área?",
+    "es": "Um retângulo tem 5 cm de comprimento e 10 cm de largura. Qual é a área?"
+  },
+  "opcoes": [
+    "15 cm²",
+    "55 cm²",
+    "30 cm²",
+    "50 cm²"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "Área = comprimento × largura = 5 × 10 = 50 cm².",
+    "en": "Area = length × width = 5 × 10 = 50 cm².",
+    "pt-BR": "Área = comprimento × largura = 5 × 10 = 50 cm².",
+    "es": "Área = comprimento × largura = 5 × 10 = 50 cm²."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "geo-are",
+    "gerado"
+  ]
+}

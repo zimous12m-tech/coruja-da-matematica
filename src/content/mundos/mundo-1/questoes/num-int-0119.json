@@ -1,0 +1,34 @@
+{
+  "id": "num-int-0119",
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "subtipo": "soma",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 13 − 7?",
+    "en": "What is 13 − 7?",
+    "pt-BR": "Quanto é 13 − 7?",
+    "es": "Quanto é 13 − 7?"
+  },
+  "opcoes": [
+    "-6",
+    "20",
+    "7",
+    "6"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "13 − 7 = 6.",
+    "en": "13 − 7 = 6.",
+    "pt-BR": "13 − 7 = 6.",
+    "es": "13 − 7 = 6."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-int",
+    "gerado"
+  ]
+}

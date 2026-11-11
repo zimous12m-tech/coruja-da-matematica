@@ -1,0 +1,34 @@
+{
+  "id": "pot-cal-0166",
+  "worldId": "mundo-3",
+  "topico": "potencias",
+  "subtipo": "calculo",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_POTENCIAS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 2 elevado a 4?",
+    "en": "What is 2 to the power of 4?",
+    "pt-BR": "Quanto é 2 elevado a 4?",
+    "es": "Quanto é 2 elevado a 4?"
+  },
+  "opcoes": [
+    "8",
+    "16",
+    "18",
+    "14"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "2 × 2 × 2 × 2 = 16.",
+    "en": "2 × 2 × 2 × 2 = 16.",
+    "pt-BR": "2 × 2 × 2 × 2 = 16.",
+    "es": "2 × 2 × 2 × 2 = 16."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "pot-cal",
+    "gerado"
+  ]
+}

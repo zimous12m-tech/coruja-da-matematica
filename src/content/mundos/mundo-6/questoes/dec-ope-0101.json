@@ -1,0 +1,34 @@
+{
+  "id": "dec-ope-0101",
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "subtipo": "adicao",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 1,1 + 5,5?",
+    "en": "What is 1.1 + 5.5?",
+    "pt-BR": "Quanto é 1,1 + 5,5?",
+    "es": "Quanto é 1,1 + 5,5?"
+  },
+  "opcoes": [
+    "7,6",
+    "6,6",
+    "4,4",
+    "1,1"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "1,1 + 5,5 = 6,6.",
+    "en": "1.1 + 5.5 = 6.6.",
+    "pt-BR": "1,1 + 5,5 = 6,6.",
+    "es": "1,1 + 5,5 = 6,6."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ]
+}

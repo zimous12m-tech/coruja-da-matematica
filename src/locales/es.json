@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "Buho Matematico",
+    "subtitle": "Practica matematicas de 6o con la Profesora Buho."
+  },
+  "common": {
+    "back": "Volver"
+  },
+  "menu": {
+    "play": "Jugar",
+    "coins": "Plumas: {{count}}",
+    "language": "Idioma"
+  },
+  "world": {
+    "title": "Elige un mundo",
+    "stars": "{{done}} / {{total}} estrellas"
+  },
+  "game": {
+    "exit": "Salir",
+    "progress": "Pregunta {{current}} de {{total}}",
+    "correct": "Bien! Has acertado.",
+    "wrong": "Casi. Lee la explicacion.",
+    "explanation": "Explicacion",
+    "next": "Siguiente",
+    "finish": "Terminar"
+  },
+  "complete": {
+    "title": "Nivel completo!",
+    "score": "Has acertado {{correct}} de {{total}}.",
+    "coins": "Has ganado {{count}} plumas.",
+    "repeat": "Repetir",
+    "nextLevel": "Siguiente nivel",
+    "backToMap": "Volver al mapa"
+  },
+  "settings": {
+    "title": "Ajustes",
+    "sound": "Sonido",
+    "music": "Musica",
+    "timed": "Sin tiempo",
+    "buttonsOnly": "Solo botones",
+    "highContrast": "Alto contraste",
+    "dyslexia": "Fuente para dislexia"
+  },
+  "parents": {
+    "title": "Zona de padres",
+    "gate": "Cuanto es {{a}} x {{b}}?",
+    "gateError": "Respuesta incorrecta. Intentalo de nuevo.",
+    "enter": "Entrar",
+    "report": "Informe de progreso",
+    "level": "Nivel",
+    "stars": "Estrellas",
+    "empty": "Aun sin niveles completados.",
+    "coins": "Plumas: {{count}}",
+    "totalStars": "Estrellas totales: {{count}}"
+  },
+  "credits": {
+    "title": "Creditos",
+    "team": "Equipo",
+    "teamText": "Juego desarrollado como proyecto educativo independiente.",
+    "tech": "Tecnologias",
+    "techText": "Phaser, TypeScript, Vite, i18next, Zod.",
+    "privacy": "Privacidad",
+    "privacyText": "Sin anuncios ni datos personales. El progreso queda en el dispositivo."
+  },
+  "onboarding": {
+    "welcome": "Hola! Soy la Profesora Buho.",
+    "welcomeText": "Vamos a aprender matematicas juntos, con juegos y retos.",
+    "howTo": "Como funciona",
+    "howToText": "Elige un mundo, responde a las preguntas y gana estrellas. Si fallas, lee la explicacion e intenta otra vez.",
+    "ready": "Listo para empezar?",
+    "readyText": "6 mundos, 36 niveles, 360 retos te esperan.",
+    "next": "Siguiente",
+    "start": "Vamos a jugar!",
+    "skip": "Saltar"
+  },
+  "profile": {
+    "title": "Perfil",
+    "stars": "estrellas",
+    "coins": "plumas",
+    "streak": "dias",
+    "achievements": "Logros"
+  },
+  "daily": {
+    "title": "Reto del dia",
+    "intro": "3 preguntas. +30 plumas si aciertas todas.",
+    "alreadyDone": "Ya hiciste el reto de hoy",
+    "perfect": "Reto perfecto!",
+    "comeBack": "Vuelve manana para un nuevo reto."
+  }
+}

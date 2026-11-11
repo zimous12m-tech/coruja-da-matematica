@@ -1,0 +1,34 @@
+{
+  "id": "dec-ope-0171",
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "subtipo": "adicao",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 5,4 + 7,3?",
+    "en": "What is 5.4 + 7.3?",
+    "pt-BR": "Quanto é 5,4 + 7,3?",
+    "es": "Quanto é 5,4 + 7,3?"
+  },
+  "opcoes": [
+    "13,7",
+    "5,4",
+    "12,7",
+    "1,8999999999999995"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "5,4 + 7,3 = 12,7.",
+    "en": "5.4 + 7.3 = 12.7.",
+    "pt-BR": "5,4 + 7,3 = 12,7.",
+    "es": "5,4 + 7,3 = 12,7."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ]
+}

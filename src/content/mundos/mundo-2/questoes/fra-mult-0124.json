@@ -1,0 +1,34 @@
+{
+  "id": "fra-mult-0124",
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "subtipo": "multiplicacao",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 3/4 × 1/6?",
+    "en": "What is 3/4 × 1/6?",
+    "pt-BR": "Quanto é 3/4 × 1/6?",
+    "es": "Quanto é 3/4 × 1/6?"
+  },
+  "opcoes": [
+    "4/24",
+    "4/10",
+    "18/4",
+    "3/24"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "Multiplicam-se numeradores e denominadores: 3/24.",
+    "en": "Multiply numerators and denominators: 3/24.",
+    "pt-BR": "Multiplicam-se numeradores e denominadores: 3/24.",
+    "es": "Multiplicam-se numeradores e denominadores: 3/24."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "fra-mult",
+    "gerado"
+  ]
+}

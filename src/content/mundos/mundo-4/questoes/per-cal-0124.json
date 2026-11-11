@@ -1,0 +1,34 @@
+{
+  "id": "per-cal-0124",
+  "worldId": "mundo-4",
+  "topico": "percentagens",
+  "subtipo": "calculo",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_PERCENTAGENS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 20 % de 60?",
+    "en": "What is 20 % of 60?",
+    "pt-BR": "Quanto é 20 % de 60?",
+    "es": "Quanto é 20 % de 60?"
+  },
+  "opcoes": [
+    "1200",
+    "17",
+    "12",
+    "3"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "20 % é 20 em cada 100: 60 ÷ 100 × 20 = 12.",
+    "en": "20 % is 20 in every 100: 60 ÷ 100 × 20 = 12.",
+    "pt-BR": "20 % é 20 em cada 100: 60 ÷ 100 × 20 = 12.",
+    "es": "20 % é 20 em cada 100: 60 ÷ 100 × 20 = 12."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "per-cal",
+    "gerado"
+  ]
+}

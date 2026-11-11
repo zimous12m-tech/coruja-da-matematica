@@ -1,0 +1,22 @@
+{
+  "id": "mundo-4-nivel-6",
+  "worldId": "mundo-4",
+  "titulo": {
+    "pt-PT": "Boss",
+    "en": "Boss"
+  },
+  "boss": true,
+  "tempoSugerido": 200,
+  "questionIds": [
+    "per-cal-0166",
+    "per-cal-0167",
+    "pro-dir-0169",
+    "per-cal-0170",
+    "pro-dir-0171",
+    "pro-dir-0173",
+    "pro-dir-0174",
+    "per-cal-0175",
+    "per-cal-0176",
+    "per-cal-0177"
+  ]
+}

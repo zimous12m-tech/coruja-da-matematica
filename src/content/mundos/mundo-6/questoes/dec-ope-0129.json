@@ -1,0 +1,34 @@
+{
+  "id": "dec-ope-0129",
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "subtipo": "adicao",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 7,3 + 3,3?",
+    "en": "What is 7.3 + 3.3?",
+    "pt-BR": "Quanto é 7,3 + 3,3?",
+    "es": "Quanto é 7,3 + 3,3?"
+  },
+  "opcoes": [
+    "4",
+    "11,6",
+    "10,6",
+    "7,3"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "7,3 + 3,3 = 10,6.",
+    "en": "7.3 + 3.3 = 10.6.",
+    "pt-BR": "7,3 + 3,3 = 10,6.",
+    "es": "7,3 + 3,3 = 10,6."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ]
+}

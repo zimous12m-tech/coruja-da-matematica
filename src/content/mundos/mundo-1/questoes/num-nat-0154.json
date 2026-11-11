@@ -1,0 +1,34 @@
+{
+  "id": "num-nat-0154",
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "subtipo": "valor-posicional",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ],
+  "pergunta": {
+    "pt-PT": "No número 815379, qual é o valor do algarismo 7?",
+    "en": "In the number 815379, what is the value of the digit 7?",
+    "pt-BR": "No número 815379, qual é o valor do algarismo 7?",
+    "es": "No número 815379, qual é o valor do algarismo 7?"
+  },
+  "opcoes": [
+    "80",
+    "7",
+    "700",
+    "70"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "O 7 está na ordem das dezenas, por isso vale 70.",
+    "en": "The 7 is in the tens place, so it is worth 70.",
+    "pt-BR": "O 7 está na ordem das dezenas, por isso vale 70.",
+    "es": "O 7 está na ordem das dezenas, por isso vale 70."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ]
+}

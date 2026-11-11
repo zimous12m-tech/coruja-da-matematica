@@ -1,0 +1,45 @@
+{
+  "id": "fra-comp-0162",
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "subtipo": "comparacao",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ],
+  "pergunta": {
+    "pt-PT": "Qual destas frações é maior: 4/8 ou 4/24?",
+    "en": "Which is bigger: 4/8 or 4/24?",
+    "pt-BR": "Qual destas frações é maior: 4/8 ou 4/24?",
+    "es": "Qual destas frações é maior: 4/8 ou 4/24?"
+  },
+  "opcoes": [
+    "5/8",
+    "4/8",
+    "4/25",
+    "4/24"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "Com o mesmo numerador, é maior a fração de menor denominador: 4/8.",
+    "en": "Same numerator: the smaller denominator wins: 4/8.",
+    "pt-BR": "Com o mesmo numerador, é maior a fração de menor denominador: 4/8.",
+    "es": "Com o mesmo numerador, é maior a fração de menor denominador: 4/8."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "fra-comp",
+    "gerado"
+  ],
+  "visual": {
+    "tipo": "fracaoComparada",
+    "a": {
+      "n": 4,
+      "d": 8
+    },
+    "b": {
+      "n": 4,
+      "d": 24
+    }
+  }
+}

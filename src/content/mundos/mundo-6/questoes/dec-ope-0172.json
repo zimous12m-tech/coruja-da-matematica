@@ -1,0 +1,34 @@
+{
+  "id": "dec-ope-0172",
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "subtipo": "adicao",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 1,8 + 4,3?",
+    "en": "What is 1.8 + 4.3?",
+    "pt-BR": "Quanto é 1,8 + 4,3?",
+    "es": "Quanto é 1,8 + 4,3?"
+  },
+  "opcoes": [
+    "1,8",
+    "7,1",
+    "6,1",
+    "2,5"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "1,8 + 4,3 = 6,1.",
+    "en": "1.8 + 4.3 = 6.1.",
+    "pt-BR": "1,8 + 4,3 = 6,1.",
+    "es": "1,8 + 4,3 = 6,1."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ]
+}

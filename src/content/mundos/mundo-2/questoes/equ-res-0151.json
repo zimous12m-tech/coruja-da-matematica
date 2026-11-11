@@ -1,0 +1,34 @@
+{
+  "id": "equ-res-0151",
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "subtipo": "resolucao",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ],
+  "pergunta": {
+    "pt-PT": "Resolve a equação 3x + 9 = 24.",
+    "en": "Solve 3x + 9 = 24.",
+    "pt-BR": "Resolve a equação 3x + 9 = 24.",
+    "es": "Resolve a equação 3x + 9 = 24."
+  },
+  "opcoes": [
+    "5",
+    "24",
+    "15",
+    "6"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "3x = 24 − 9 = 15. Então x = 15 ÷ 3 = 5.",
+    "en": "3x = 24 − 9 = 15. So x = 15 ÷ 3 = 5.",
+    "pt-BR": "3x = 24 − 9 = 15. Então x = 15 ÷ 3 = 5.",
+    "es": "3x = 24 − 9 = 15. Então x = 15 ÷ 3 = 5."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ]
+}

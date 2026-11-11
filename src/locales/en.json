@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "Math Owl",
+    "subtitle": "Practise grade 6 maths with Professor Owl."
+  },
+  "common": {
+    "back": "Back"
+  },
+  "menu": {
+    "play": "Play",
+    "coins": "Feathers: {{count}}",
+    "language": "Language"
+  },
+  "world": {
+    "title": "Choose a world",
+    "stars": "{{done}} / {{total}} stars"
+  },
+  "game": {
+    "exit": "Exit",
+    "progress": "Question {{current}} of {{total}}",
+    "correct": "Nice! That's right.",
+    "wrong": "Almost. Read the explanation.",
+    "explanation": "Explanation",
+    "next": "Next",
+    "finish": "Finish"
+  },
+  "complete": {
+    "title": "Level complete!",
+    "score": "You got {{correct}} of {{total}}.",
+    "coins": "You earned {{count}} feathers.",
+    "repeat": "Repeat",
+    "nextLevel": "Next level",
+    "backToMap": "Back to map"
+  },
+  "settings": {
+    "title": "Settings",
+    "sound": "Sound",
+    "music": "Music",
+    "timed": "No timer",
+    "buttonsOnly": "Buttons only",
+    "highContrast": "High contrast",
+    "dyslexia": "Dyslexia font"
+  },
+  "parents": {
+    "title": "Parents area",
+    "gate": "What is {{a}} x {{b}}?",
+    "gateError": "Wrong answer. Try again.",
+    "enter": "Enter",
+    "report": "Progress report",
+    "level": "Level",
+    "stars": "Stars",
+    "empty": "No levels completed yet.",
+    "coins": "Feathers: {{count}}",
+    "totalStars": "Total stars: {{count}}"
+  },
+  "credits": {
+    "title": "Credits",
+    "team": "Team",
+    "teamText": "Game developed as an independent educational project.",
+    "tech": "Technologies",
+    "techText": "Phaser, TypeScript, Vite, i18next, Zod.",
+    "privacy": "Privacy",
+    "privacyText": "No ads or personal data. Progress stays on the device."
+  },
+  "onboarding": {
+    "welcome": "Hi! I'm Professor Owl.",
+    "welcomeText": "Let's learn maths together, with games and challenges.",
+    "howTo": "How it works",
+    "howToText": "Pick a world, answer the questions and earn stars. If you miss, read the explanation and try again.",
+    "ready": "Ready to start?",
+    "readyText": "6 worlds, 36 levels, 360 challenges waiting for you.",
+    "next": "Next",
+    "start": "Let's play!",
+    "skip": "Skip"
+  },
+  "profile": {
+    "title": "Profile",
+    "stars": "stars",
+    "coins": "feathers",
+    "streak": "days",
+    "achievements": "Achievements"
+  },
+  "daily": {
+    "title": "Daily challenge",
+    "intro": "3 questions. +30 feathers if you get them all.",
+    "alreadyDone": "You already did today's challenge",
+    "perfect": "Perfect challenge!",
+    "comeBack": "Come back tomorrow for a new challenge."
+  }
+}

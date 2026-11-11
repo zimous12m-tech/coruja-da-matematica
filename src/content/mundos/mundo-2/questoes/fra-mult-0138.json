@@ -1,0 +1,34 @@
+{
+  "id": "fra-mult-0138",
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "subtipo": "multiplicacao",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 1/3 × 2/4?",
+    "en": "What is 1/3 × 2/4?",
+    "pt-BR": "Quanto é 1/3 × 2/4?",
+    "es": "Quanto é 1/3 × 2/4?"
+  },
+  "opcoes": [
+    "4/6",
+    "2/12",
+    "3/7",
+    "3/12"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "Multiplicam-se numeradores e denominadores: 2/12.",
+    "en": "Multiply numerators and denominators: 2/12.",
+    "pt-BR": "Multiplicam-se numeradores e denominadores: 2/12.",
+    "es": "Multiplicam-se numeradores e denominadores: 2/12."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "fra-mult",
+    "gerado"
+  ]
+}

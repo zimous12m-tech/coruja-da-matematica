@@ -1,0 +1,50 @@
+coruja-matematica/
+├── package.json
+├── tsconfig.json
+├── vite.config.ts
+├── index.html
+├── .gitignore
+├── public/
+│   └── icons/
+│       └── icon.svg
+└── src/
+    ├── main.ts
+    ├── vite-env.d.ts
+    └── styles/
+        ├── tokens.css
+        ├── base.css
+        └── ui.css
+
+
+src/
+├── content/
+│   ├── schema.ts                    (novo)
+│   ├── worlds.ts                    (novo)
+│   └── mundos/
+│       ├── mundo-1/
+│       │   ├── manifest.json
+│       │   ├── index.json
+│       │   ├── nivel-1.json
+│       │   └── questoes/
+│       │       ├── num-nat-0001.json
+│       │       └── num-nat-0002.json
+│       ├── mundo-2/  (idem, 1 nível + 2 perguntas)
+│       ├── mundo-3/  (idem)
+│       ├── mundo-4/  (idem)
+│       ├── mundo-5/  (idem)
+│       └── mundo-6/  (idem)
+└── (main.ts é alterado no fim)
+
+
+src/
+├── locales/
+│   ├── pt-PT.json   (novo)
+│   ├── pt-BR.json   (novo)
+│   ├── en.json      (novo)
+│   └── es.json      (novo)
+├── services/
+│   ├── i18n.ts      (novo)
+│   ├── save.ts      (novo)
+│   └── progress.ts  (novo)
+└── main.ts          (substituir)
+

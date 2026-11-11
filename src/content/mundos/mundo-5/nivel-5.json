@@ -1,0 +1,22 @@
+{
+  "id": "mundo-5-nivel-5",
+  "worldId": "mundo-5",
+  "titulo": {
+    "pt-PT": "Nível 5",
+    "en": "Level 5"
+  },
+  "boss": false,
+  "tempoSugerido": 250,
+  "questionIds": [
+    "est-med-0146",
+    "prob-cal-0147",
+    "prob-cal-0148",
+    "est-med-0149",
+    "prob-cal-0150",
+    "est-med-0151",
+    "prob-cal-0152",
+    "prob-cal-0153",
+    "prob-cal-0154",
+    "est-med-0155"
+  ]
+}

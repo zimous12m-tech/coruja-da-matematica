@@ -1,0 +1,34 @@
+{
+  "id": "num-nat-0115",
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "subtipo": "valor-posicional",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ],
+  "pergunta": {
+    "pt-PT": "No número 34961, qual é o valor do algarismo 3?",
+    "en": "In the number 34961, what is the value of the digit 3?",
+    "pt-BR": "No número 34961, qual é o valor do algarismo 3?",
+    "es": "No número 34961, qual é o valor do algarismo 3?"
+  },
+  "opcoes": [
+    "300000",
+    "3",
+    "40000",
+    "30000"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "O 3 está na ordem das dezenas de milhar, por isso vale 30000.",
+    "en": "The 3 is in the ten-thousands place, so it is worth 30000.",
+    "pt-BR": "O 3 está na ordem das dezenas de milhar, por isso vale 30000.",
+    "es": "O 3 está na ordem das dezenas de milhar, por isso vale 30000."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ]
+}

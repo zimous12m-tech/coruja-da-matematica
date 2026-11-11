@@ -1,0 +1,34 @@
+{
+  "id": "prob-cal-0136",
+  "worldId": "mundo-5",
+  "topico": "probabilidades",
+  "subtipo": "calculo",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_PROBABILIDADES"
+  ],
+  "pergunta": {
+    "pt-PT": "Um saco tem 5 bolas verdes e 2 azuis. Qual é a probabilidade de tirar verde?",
+    "en": "A bag has 5 green and 2 blue balls. What is the probability of drawing green?",
+    "pt-BR": "Um saco tem 5 bolas verdes e 2 azuis. Qual é a probabilidade de tirar verde?",
+    "es": "Um saco tem 5 bolas verdes e 2 azuis. Qual é a probabilidade de tirar verde?"
+  },
+  "opcoes": [
+    "6/7",
+    "2/7",
+    "5/7",
+    "5/2"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "5 casos favoráveis em 7: 5/7.",
+    "en": "5 favourable out of 7: 5/7.",
+    "pt-BR": "5 casos favoráveis em 7: 5/7.",
+    "es": "5 casos favoráveis em 7: 5/7."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "prob-cal",
+    "gerado"
+  ]
+}

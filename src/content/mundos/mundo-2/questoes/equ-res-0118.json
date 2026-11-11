@@ -1,0 +1,34 @@
+{
+  "id": "equ-res-0118",
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "subtipo": "resolucao",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ],
+  "pergunta": {
+    "pt-PT": "Resolve a equação 8x + 3 = 27.",
+    "en": "Solve 8x + 3 = 27.",
+    "pt-BR": "Resolve a equação 8x + 3 = 27.",
+    "es": "Resolve a equação 8x + 3 = 27."
+  },
+  "opcoes": [
+    "4",
+    "3",
+    "24",
+    "27"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "8x = 27 − 3 = 24. Então x = 24 ÷ 8 = 3.",
+    "en": "8x = 27 − 3 = 24. So x = 24 ÷ 8 = 3.",
+    "pt-BR": "8x = 27 − 3 = 24. Então x = 24 ÷ 8 = 3.",
+    "es": "8x = 27 − 3 = 24. Então x = 24 ÷ 8 = 3."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ]
+}

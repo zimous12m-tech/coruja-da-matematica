@@ -1,0 +1,34 @@
+{
+  "id": "num-int-0152",
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "subtipo": "soma",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 33 − 36?",
+    "en": "What is 33 − 36?",
+    "pt-BR": "Quanto é 33 − 36?",
+    "es": "Quanto é 33 − 36?"
+  },
+  "opcoes": [
+    "-2",
+    "3",
+    "69",
+    "-3"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "33 − 36 = -3.",
+    "en": "33 − 36 = -3.",
+    "pt-BR": "33 − 36 = -3.",
+    "es": "33 − 36 = -3."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-int",
+    "gerado"
+  ]
+}

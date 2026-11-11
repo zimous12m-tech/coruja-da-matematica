@@ -1,0 +1,34 @@
+{
+  "id": "num-nat-0126",
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "subtipo": "valor-posicional",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ],
+  "pergunta": {
+    "pt-PT": "No número 26366, qual é o valor do algarismo 2?",
+    "en": "In the number 26366, what is the value of the digit 2?",
+    "pt-BR": "No número 26366, qual é o valor do algarismo 2?",
+    "es": "No número 26366, qual é o valor do algarismo 2?"
+  },
+  "opcoes": [
+    "200000",
+    "20000",
+    "2",
+    "30000"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "O 2 está na ordem das dezenas de milhar, por isso vale 20000.",
+    "en": "The 2 is in the ten-thousands place, so it is worth 20000.",
+    "pt-BR": "O 2 está na ordem das dezenas de milhar, por isso vale 20000.",
+    "es": "O 2 está na ordem das dezenas de milhar, por isso vale 20000."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ]
+}

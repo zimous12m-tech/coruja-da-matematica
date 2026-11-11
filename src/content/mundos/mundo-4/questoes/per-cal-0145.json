@@ -1,0 +1,34 @@
+{
+  "id": "per-cal-0145",
+  "worldId": "mundo-4",
+  "topico": "percentagens",
+  "subtipo": "calculo",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_PERCENTAGENS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 50 % de 40?",
+    "en": "What is 50 % of 40?",
+    "pt-BR": "Quanto é 50 % de 40?",
+    "es": "Quanto é 50 % de 40?"
+  },
+  "opcoes": [
+    "20",
+    "25",
+    "2000",
+    "0.8"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "50 % é 50 em cada 100: 40 ÷ 100 × 50 = 20.",
+    "en": "50 % is 50 in every 100: 40 ÷ 100 × 50 = 20.",
+    "pt-BR": "50 % é 50 em cada 100: 40 ÷ 100 × 50 = 20.",
+    "es": "50 % é 50 em cada 100: 40 ÷ 100 × 50 = 20."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "per-cal",
+    "gerado"
+  ]
+}

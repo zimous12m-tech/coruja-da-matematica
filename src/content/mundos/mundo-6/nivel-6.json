@@ -1,0 +1,22 @@
+{
+  "id": "mundo-6-nivel-6",
+  "worldId": "mundo-6",
+  "titulo": {
+    "pt-PT": "Boss",
+    "en": "Boss"
+  },
+  "boss": true,
+  "tempoSugerido": 200,
+  "questionIds": [
+    "dec-ope-0219",
+    "dec-ope-0220",
+    "dec-ope-0221",
+    "dec-ope-0222",
+    "dec-ope-0223",
+    "dec-ope-0224",
+    "dec-ope-0225",
+    "dec-ope-0227",
+    "dec-ope-0228",
+    "dec-ope-0230"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "fra-comp-0163",
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "subtipo": "comparacao",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ],
+  "pergunta": {
+    "pt-PT": "Qual destas frações é maior: 3/4 ou 3/12?",
+    "en": "Which is bigger: 3/4 or 3/12?",
+    "pt-BR": "Qual destas frações é maior: 3/4 ou 3/12?",
+    "es": "Qual destas frações é maior: 3/4 ou 3/12?"
+  },
+  "opcoes": [
+    "3/4",
+    "3/12",
+    "3/13",
+    "4/4"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Com o mesmo numerador, é maior a fração de menor denominador: 3/4.",
+    "en": "Same numerator: the smaller denominator wins: 3/4.",
+    "pt-BR": "Com o mesmo numerador, é maior a fração de menor denominador: 3/4.",
+    "es": "Com o mesmo numerador, é maior a fração de menor denominador: 3/4."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "fra-comp",
+    "gerado"
+  ],
+  "visual": {
+    "tipo": "fracaoComparada",
+    "a": {
+      "n": 3,
+      "d": 4
+    },
+    "b": {
+      "n": 3,
+      "d": 12
+    }
+  }
+}

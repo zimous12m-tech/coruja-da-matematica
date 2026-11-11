@@ -1,0 +1,22 @@
+{
+  "id": "mundo-2-nivel-3",
+  "worldId": "mundo-2",
+  "titulo": {
+    "pt-PT": "Nível 3",
+    "en": "Level 3"
+  },
+  "boss": false,
+  "tempoSugerido": 210,
+  "questionIds": [
+    "fra-add-0122",
+    "fra-mult-0123",
+    "fra-mult-0124",
+    "fra-add-0125",
+    "fra-mult-0126",
+    "fra-mult-0127",
+    "equ-res-0128",
+    "fra-comp-0130",
+    "fra-comp-0131",
+    "fra-add-0132"
+  ]
+}

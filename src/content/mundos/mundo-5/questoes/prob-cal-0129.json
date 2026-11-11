@@ -1,0 +1,34 @@
+{
+  "id": "prob-cal-0129",
+  "worldId": "mundo-5",
+  "topico": "probabilidades",
+  "subtipo": "calculo",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_PROBABILIDADES"
+  ],
+  "pergunta": {
+    "pt-PT": "Um saco tem 4 bolas verdes e 8 azuis. Qual é a probabilidade de tirar verde?",
+    "en": "A bag has 4 green and 8 blue balls. What is the probability of drawing green?",
+    "pt-BR": "Um saco tem 4 bolas verdes e 8 azuis. Qual é a probabilidade de tirar verde?",
+    "es": "Um saco tem 4 bolas verdes e 8 azuis. Qual é a probabilidade de tirar verde?"
+  },
+  "opcoes": [
+    "5/12",
+    "8/12",
+    "4/8",
+    "4/12"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "4 casos favoráveis em 12: 4/12.",
+    "en": "4 favourable out of 12: 4/12.",
+    "pt-BR": "4 casos favoráveis em 12: 4/12.",
+    "es": "4 casos favoráveis em 12: 4/12."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "prob-cal",
+    "gerado"
+  ]
+}

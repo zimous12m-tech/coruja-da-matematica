@@ -1,0 +1,24 @@
+{
+  "id": "log-pro-0001",
+  "worldId": "mundo-6",
+  "topico": "logica",
+  "subtipo": "ordem",
+  "dificuldade": 1,
+  "curriculo": ["PT_6ano_MAT_LOGICA"],
+  "pergunta": {
+    "pt-PT": "Numa fila, a Ana é a 3.ª e o Rui é o 7.º. Quantas pessoas estão entre eles?",
+    "en": "In a queue Ana is 3rd and Rui is 7th. How many people are between them?",
+    "pt-BR": "Numa fila, a Ana é a 3.ª e o Rui é o 7.º. Quantas pessoas estão entre eles?",
+    "es": "En una fila Ana es la 3.ª y Rui es el 7.º. ¿Cuántas personas hay entre ellos?"
+  },
+  "opcoes": ["3", "4", "5", "2"],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Entre o 3.º e o 7.º estão o 4.º, 5.º e 6.º: 3 pessoas.",
+    "en": "Between 3rd and 7th are 4th, 5th and 6th: 3 people.",
+    "pt-BR": "Entre o 3.º e o 7.º estão o 4.º, 5.º e 6.º: 3 pessoas.",
+    "es": "Entre el 3.º y el 7.º están el 4.º, 5.º y 6.º: 3 personas."
+  },
+  "tempoSugerido": 30,
+  "tags": ["logica", "ordem"]
+}

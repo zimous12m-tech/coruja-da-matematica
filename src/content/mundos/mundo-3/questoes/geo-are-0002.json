@@ -1,0 +1,24 @@
+{
+  "id": "geo-are-0002",
+  "worldId": "mundo-3",
+  "topico": "geometria",
+  "subtipo": "area",
+  "dificuldade": 2,
+  "curriculo": ["PT_6ano_MAT_GEOMETRIA"],
+  "pergunta": {
+    "pt-PT": "Um quadrado tem 5 cm de lado. Qual é a sua área?",
+    "en": "A square has 5 cm sides. What is its area?",
+    "pt-BR": "Um quadrado tem 5 cm de lado. Qual é a sua área?",
+    "es": "Un cuadrado tiene 5 cm de lado. ¿Cuál es su área?"
+  },
+  "opcoes": ["25 cm²", "20 cm²", "10 cm²", "5 cm²"],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Área = lado × lado = 5 × 5 = 25 cm².",
+    "en": "Area = side × side = 5 × 5 = 25 cm².",
+    "pt-BR": "Área = lado × lado = 5 × 5 = 25 cm².",
+    "es": "Área = lado × lado = 5 × 5 = 25 cm²."
+  },
+  "tempoSugerido": 30,
+  "tags": ["geometria", "area"]
+}

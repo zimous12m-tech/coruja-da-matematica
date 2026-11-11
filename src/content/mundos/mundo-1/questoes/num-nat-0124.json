@@ -1,0 +1,34 @@
+{
+  "id": "num-nat-0124",
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "subtipo": "valor-posicional",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ],
+  "pergunta": {
+    "pt-PT": "No número 78039, qual é o valor do algarismo 3?",
+    "en": "In the number 78039, what is the value of the digit 3?",
+    "pt-BR": "No número 78039, qual é o valor do algarismo 3?",
+    "es": "No número 78039, qual é o valor do algarismo 3?"
+  },
+  "opcoes": [
+    "30",
+    "40",
+    "3",
+    "300"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "O 3 está na ordem das dezenas, por isso vale 30.",
+    "en": "The 3 is in the tens place, so it is worth 30.",
+    "pt-BR": "O 3 está na ordem das dezenas, por isso vale 30.",
+    "es": "O 3 está na ordem das dezenas, por isso vale 30."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ]
+}

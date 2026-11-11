@@ -1,0 +1,34 @@
+{
+  "id": "num-int-0133",
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "subtipo": "soma",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 14 − 13?",
+    "en": "What is 14 − 13?",
+    "pt-BR": "Quanto é 14 − 13?",
+    "es": "Quanto é 14 − 13?"
+  },
+  "opcoes": [
+    "1",
+    "2",
+    "27",
+    "-1"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "14 − 13 = 1.",
+    "en": "14 − 13 = 1.",
+    "pt-BR": "14 − 13 = 1.",
+    "es": "14 − 13 = 1."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-int",
+    "gerado"
+  ]
+}

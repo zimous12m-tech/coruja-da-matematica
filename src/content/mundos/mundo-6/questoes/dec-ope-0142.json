@@ -1,0 +1,34 @@
+{
+  "id": "dec-ope-0142",
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "subtipo": "adicao",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 3,6 + 8,3?",
+    "en": "What is 3.6 + 8.3?",
+    "pt-BR": "Quanto é 3,6 + 8,3?",
+    "es": "Quanto é 3,6 + 8,3?"
+  },
+  "opcoes": [
+    "11,9",
+    "4,700000000000001",
+    "3,6",
+    "12,9"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "3,6 + 8,3 = 11,9.",
+    "en": "3.6 + 8.3 = 11.9.",
+    "pt-BR": "3,6 + 8,3 = 11,9.",
+    "es": "3,6 + 8,3 = 11,9."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "num-int-0105",
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "subtipo": "soma",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 15 − 4?",
+    "en": "What is 15 − 4?",
+    "pt-BR": "Quanto é 15 − 4?",
+    "es": "Quanto é 15 − 4?"
+  },
+  "opcoes": [
+    "-11",
+    "11",
+    "19",
+    "12"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "15 − 4 = 11.",
+    "en": "15 − 4 = 11.",
+    "pt-BR": "15 − 4 = 11.",
+    "es": "15 − 4 = 11."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "num-int",
+    "gerado"
+  ]
+}

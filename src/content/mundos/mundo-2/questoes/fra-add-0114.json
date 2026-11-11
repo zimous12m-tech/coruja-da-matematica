@@ -1,0 +1,39 @@
+{
+  "id": "fra-add-0114",
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "subtipo": "adicao",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 4/8 + 1/8?",
+    "en": "What is 4/8 + 1/8?",
+    "pt-BR": "Quanto é 4/8 + 1/8?",
+    "es": "Quanto é 4/8 + 1/8?"
+  },
+  "opcoes": [
+    "4/8",
+    "6/8",
+    "5/8",
+    "5/16"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "Mesmo denominador: somam-se os numeradores, 4 + 1 = 5. Resultado 5/8.",
+    "en": "Same denominator: add the numerators, 4 + 1 = 5. Result 5/8.",
+    "pt-BR": "Mesmo denominador: somam-se os numeradores, 4 + 1 = 5. Resultado 5/8.",
+    "es": "Mesmo denominador: somam-se os numeradores, 4 + 1 = 5. Resultado 5/8."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "fra-add",
+    "gerado"
+  ],
+  "visual": {
+    "tipo": "pizza",
+    "fatias": 8,
+    "comidas": 5
+  }
+}

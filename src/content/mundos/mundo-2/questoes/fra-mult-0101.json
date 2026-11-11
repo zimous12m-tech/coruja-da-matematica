@@ -1,0 +1,34 @@
+{
+  "id": "fra-mult-0101",
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "subtipo": "multiplicacao",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 3/3 × 4/6?",
+    "en": "What is 3/3 × 4/6?",
+    "pt-BR": "Quanto é 3/3 × 4/6?",
+    "es": "Quanto é 3/3 × 4/6?"
+  },
+  "opcoes": [
+    "13/18",
+    "18/12",
+    "7/9",
+    "12/18"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "Multiplicam-se numeradores e denominadores: 12/18.",
+    "en": "Multiply numerators and denominators: 12/18.",
+    "pt-BR": "Multiplicam-se numeradores e denominadores: 12/18.",
+    "es": "Multiplicam-se numeradores e denominadores: 12/18."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "fra-mult",
+    "gerado"
+  ]
+}

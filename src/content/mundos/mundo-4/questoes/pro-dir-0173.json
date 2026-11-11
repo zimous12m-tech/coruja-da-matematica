@@ -1,0 +1,34 @@
+{
+  "id": "pro-dir-0173",
+  "worldId": "mundo-4",
+  "topico": "proporcionalidade",
+  "subtipo": "direta",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_PROPORCIONALIDADE"
+  ],
+  "pergunta": {
+    "pt-PT": "Se 4 cadernos custam 16 €, quanto custam 7 cadernos iguais?",
+    "en": "If 4 notebooks cost 16 €, how much do 7 notebooks cost?",
+    "pt-BR": "Se 4 cadernos custam 16 €, quanto custam 7 cadernos iguais?",
+    "es": "Se 4 cadernos custam 16 €, quanto custam 7 cadernos iguais?"
+  },
+  "opcoes": [
+    "28",
+    "16",
+    "32",
+    "20"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Um caderno custa 4 €. Para 7: 7 × 4 = 28 €.",
+    "en": "One notebook is 4 €. For 7: 7 × 4 = 28 €.",
+    "pt-BR": "Um caderno custa 4 €. Para 7: 7 × 4 = 28 €.",
+    "es": "Um caderno custa 4 €. Para 7: 7 × 4 = 28 €."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "pro-dir",
+    "gerado"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "equ-res-0105",
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "subtipo": "resolucao",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ],
+  "pergunta": {
+    "pt-PT": "Resolve a equação 8x + 5 = 21.",
+    "en": "Solve 8x + 5 = 21.",
+    "pt-BR": "Resolve a equação 8x + 5 = 21.",
+    "es": "Resolve a equação 8x + 5 = 21."
+  },
+  "opcoes": [
+    "3",
+    "21",
+    "16",
+    "2"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "8x = 21 − 5 = 16. Então x = 16 ÷ 8 = 2.",
+    "en": "8x = 21 − 5 = 16. So x = 16 ÷ 8 = 2.",
+    "pt-BR": "8x = 21 − 5 = 16. Então x = 16 ÷ 8 = 2.",
+    "es": "8x = 21 − 5 = 16. Então x = 16 ÷ 8 = 2."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ]
+}

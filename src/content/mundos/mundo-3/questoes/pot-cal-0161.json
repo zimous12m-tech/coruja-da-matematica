@@ -1,0 +1,34 @@
+{
+  "id": "pot-cal-0161",
+  "worldId": "mundo-3",
+  "topico": "potencias",
+  "subtipo": "calculo",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_POTENCIAS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 9 elevado a 2?",
+    "en": "What is 9 to the power of 2?",
+    "pt-BR": "Quanto é 9 elevado a 2?",
+    "es": "Quanto é 9 elevado a 2?"
+  },
+  "opcoes": [
+    "72",
+    "18",
+    "90",
+    "81"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "9 × 9 = 81.",
+    "en": "9 × 9 = 81.",
+    "pt-BR": "9 × 9 = 81.",
+    "es": "9 × 9 = 81."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "pot-cal",
+    "gerado"
+  ]
+}

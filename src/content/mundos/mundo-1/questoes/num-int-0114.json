@@ -1,0 +1,34 @@
+{
+  "id": "num-int-0114",
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "subtipo": "soma",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 6 − 13?",
+    "en": "What is 6 − 13?",
+    "pt-BR": "Quanto é 6 − 13?",
+    "es": "Quanto é 6 − 13?"
+  },
+  "opcoes": [
+    "19",
+    "-7",
+    "-6",
+    "7"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "6 − 13 = -7.",
+    "en": "6 − 13 = -7.",
+    "pt-BR": "6 − 13 = -7.",
+    "es": "6 − 13 = -7."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "num-int",
+    "gerado"
+  ]
+}

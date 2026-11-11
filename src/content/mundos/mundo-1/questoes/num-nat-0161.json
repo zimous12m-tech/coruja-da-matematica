@@ -1,0 +1,34 @@
+{
+  "id": "num-nat-0161",
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "subtipo": "valor-posicional",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ],
+  "pergunta": {
+    "pt-PT": "No número 33599, qual é o valor do algarismo 9?",
+    "en": "In the number 33599, what is the value of the digit 9?",
+    "pt-BR": "No número 33599, qual é o valor do algarismo 9?",
+    "es": "No número 33599, qual é o valor do algarismo 9?"
+  },
+  "opcoes": [
+    "100",
+    "90",
+    "900",
+    "9"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "O 9 está na ordem das dezenas, por isso vale 90.",
+    "en": "The 9 is in the tens place, so it is worth 90.",
+    "pt-BR": "O 9 está na ordem das dezenas, por isso vale 90.",
+    "es": "O 9 está na ordem das dezenas, por isso vale 90."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ]
+}

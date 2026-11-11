@@ -1,0 +1,34 @@
+{
+  "id": "equ-res-0117",
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "subtipo": "resolucao",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ],
+  "pergunta": {
+    "pt-PT": "Resolve a equação 6x + 1 = 13.",
+    "en": "Solve 6x + 1 = 13.",
+    "pt-BR": "Resolve a equação 6x + 1 = 13.",
+    "es": "Resolve a equação 6x + 1 = 13."
+  },
+  "opcoes": [
+    "2",
+    "13",
+    "3",
+    "12"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "6x = 13 − 1 = 12. Então x = 12 ÷ 6 = 2.",
+    "en": "6x = 13 − 1 = 12. So x = 12 ÷ 6 = 2.",
+    "pt-BR": "6x = 13 − 1 = 12. Então x = 12 ÷ 6 = 2.",
+    "es": "6x = 13 − 1 = 12. Então x = 12 ÷ 6 = 2."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ]
+}

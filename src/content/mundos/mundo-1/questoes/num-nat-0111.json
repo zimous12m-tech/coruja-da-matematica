@@ -1,0 +1,34 @@
+{
+  "id": "num-nat-0111",
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "subtipo": "valor-posicional",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ],
+  "pergunta": {
+    "pt-PT": "No número 58424, qual é o valor do algarismo 8?",
+    "en": "In the number 58424, what is the value of the digit 8?",
+    "pt-BR": "No número 58424, qual é o valor do algarismo 8?",
+    "es": "No número 58424, qual é o valor do algarismo 8?"
+  },
+  "opcoes": [
+    "9000",
+    "80000",
+    "8",
+    "8000"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "O 8 está na ordem das milhares, por isso vale 8000.",
+    "en": "The 8 is in the thousands place, so it is worth 8000.",
+    "pt-BR": "O 8 está na ordem das milhares, por isso vale 8000.",
+    "es": "O 8 está na ordem das milhares, por isso vale 8000."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ]
+}

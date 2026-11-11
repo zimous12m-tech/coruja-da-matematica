@@ -1,0 +1,34 @@
+{
+  "id": "pot-cal-0107",
+  "worldId": "mundo-3",
+  "topico": "potencias",
+  "subtipo": "calculo",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_POTENCIAS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 6 elevado a 3?",
+    "en": "What is 6 to the power of 3?",
+    "pt-BR": "Quanto é 6 elevado a 3?",
+    "es": "Quanto é 6 elevado a 3?"
+  },
+  "opcoes": [
+    "210",
+    "216",
+    "222",
+    "18"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "6 × 6 × 6 = 216.",
+    "en": "6 × 6 × 6 = 216.",
+    "pt-BR": "6 × 6 × 6 = 216.",
+    "es": "6 × 6 × 6 = 216."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "pot-cal",
+    "gerado"
+  ]
+}

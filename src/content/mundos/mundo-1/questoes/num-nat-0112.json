@@ -1,0 +1,34 @@
+{
+  "id": "num-nat-0112",
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "subtipo": "valor-posicional",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ],
+  "pergunta": {
+    "pt-PT": "No número 51224, qual é o valor do algarismo 5?",
+    "en": "In the number 51224, what is the value of the digit 5?",
+    "pt-BR": "No número 51224, qual é o valor do algarismo 5?",
+    "es": "No número 51224, qual é o valor do algarismo 5?"
+  },
+  "opcoes": [
+    "5",
+    "50000",
+    "500000",
+    "60000"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "O 5 está na ordem das dezenas de milhar, por isso vale 50000.",
+    "en": "The 5 is in the ten-thousands place, so it is worth 50000.",
+    "pt-BR": "O 5 está na ordem das dezenas de milhar, por isso vale 50000.",
+    "es": "O 5 está na ordem das dezenas de milhar, por isso vale 50000."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ]
+}

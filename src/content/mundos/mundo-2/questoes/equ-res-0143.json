@@ -1,0 +1,34 @@
+{
+  "id": "equ-res-0143",
+  "worldId": "mundo-2",
+  "topico": "equacoes",
+  "subtipo": "resolucao",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_EQUACOES"
+  ],
+  "pergunta": {
+    "pt-PT": "Resolve a equação 4x + 7 = 19.",
+    "en": "Solve 4x + 7 = 19.",
+    "pt-BR": "Resolve a equação 4x + 7 = 19.",
+    "es": "Resolve a equação 4x + 7 = 19."
+  },
+  "opcoes": [
+    "19",
+    "12",
+    "3",
+    "4"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "4x = 19 − 7 = 12. Então x = 12 ÷ 4 = 3.",
+    "en": "4x = 19 − 7 = 12. So x = 12 ÷ 4 = 3.",
+    "pt-BR": "4x = 19 − 7 = 12. Então x = 12 ÷ 4 = 3.",
+    "es": "4x = 19 − 7 = 12. Então x = 12 ÷ 4 = 3."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "equ-res",
+    "gerado"
+  ]
+}

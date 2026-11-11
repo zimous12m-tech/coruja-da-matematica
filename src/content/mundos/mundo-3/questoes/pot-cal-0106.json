@@ -1,0 +1,34 @@
+{
+  "id": "pot-cal-0106",
+  "worldId": "mundo-3",
+  "topico": "potencias",
+  "subtipo": "calculo",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_POTENCIAS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 4 elevado a 3?",
+    "en": "What is 4 to the power of 3?",
+    "pt-BR": "Quanto é 4 elevado a 3?",
+    "es": "Quanto é 4 elevado a 3?"
+  },
+  "opcoes": [
+    "60",
+    "64",
+    "12",
+    "68"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "4 × 4 × 4 = 64.",
+    "en": "4 × 4 × 4 = 64.",
+    "pt-BR": "4 × 4 × 4 = 64.",
+    "es": "4 × 4 × 4 = 64."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "pot-cal",
+    "gerado"
+  ]
+}

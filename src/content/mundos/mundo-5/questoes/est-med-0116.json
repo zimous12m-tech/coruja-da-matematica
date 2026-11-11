@@ -1,0 +1,34 @@
+{
+  "id": "est-med-0116",
+  "worldId": "mundo-5",
+  "topico": "estatistica",
+  "subtipo": "media",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_ESTATISTICA"
+  ],
+  "pergunta": {
+    "pt-PT": "Qual é a média de 10, 19, 19, 12?",
+    "en": "What is the mean of 10, 19, 19, 12?",
+    "pt-BR": "Qual é a média de 10, 19, 19, 12?",
+    "es": "Qual é a média de 10, 19, 19, 12?"
+  },
+  "opcoes": [
+    "15",
+    "17",
+    "60",
+    "16"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Soma = 60. Divide por 4: 60 ÷ 4 = 15.",
+    "en": "Sum = 60. Divide by 4: 60 ÷ 4 = 15.",
+    "pt-BR": "Soma = 60. Divide por 4: 60 ÷ 4 = 15.",
+    "es": "Soma = 60. Divide por 4: 60 ÷ 4 = 15."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "est-med",
+    "gerado"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "dec-ope-0205",
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "subtipo": "adicao",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 5,2 + 7,4?",
+    "en": "What is 5.2 + 7.4?",
+    "pt-BR": "Quanto é 5,2 + 7,4?",
+    "es": "Quanto é 5,2 + 7,4?"
+  },
+  "opcoes": [
+    "12,6",
+    "13,6",
+    "5,2",
+    "2,2"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "5,2 + 7,4 = 12,6.",
+    "en": "5.2 + 7.4 = 12.6.",
+    "pt-BR": "5,2 + 7,4 = 12,6.",
+    "es": "5,2 + 7,4 = 12,6."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ]
+}

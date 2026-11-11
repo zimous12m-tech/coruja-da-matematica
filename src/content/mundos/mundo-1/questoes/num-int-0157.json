@@ -1,0 +1,34 @@
+{
+  "id": "num-int-0157",
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "subtipo": "soma",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 6 − 23?",
+    "en": "What is 6 − 23?",
+    "pt-BR": "Quanto é 6 − 23?",
+    "es": "Quanto é 6 − 23?"
+  },
+  "opcoes": [
+    "29",
+    "-16",
+    "17",
+    "-17"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "6 − 23 = -17.",
+    "en": "6 − 23 = -17.",
+    "pt-BR": "6 − 23 = -17.",
+    "es": "6 − 23 = -17."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-int",
+    "gerado"
+  ]
+}

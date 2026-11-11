@@ -1,0 +1,34 @@
+{
+  "id": "pot-cal-0138",
+  "worldId": "mundo-3",
+  "topico": "potencias",
+  "subtipo": "calculo",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_POTENCIAS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 5 elevado a 3?",
+    "en": "What is 5 to the power of 3?",
+    "pt-BR": "Quanto é 5 elevado a 3?",
+    "es": "Quanto é 5 elevado a 3?"
+  },
+  "opcoes": [
+    "15",
+    "125",
+    "120",
+    "130"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "5 × 5 × 5 = 125.",
+    "en": "5 × 5 × 5 = 125.",
+    "pt-BR": "5 × 5 × 5 = 125.",
+    "es": "5 × 5 × 5 = 125."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "pot-cal",
+    "gerado"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "num-int-0138",
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "subtipo": "soma",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 9 − 10?",
+    "en": "What is 9 − 10?",
+    "pt-BR": "Quanto é 9 − 10?",
+    "es": "Quanto é 9 − 10?"
+  },
+  "opcoes": [
+    "0",
+    "19",
+    "1",
+    "-1"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "9 − 10 = -1.",
+    "en": "9 − 10 = -1.",
+    "pt-BR": "9 − 10 = -1.",
+    "es": "9 − 10 = -1."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-int",
+    "gerado"
+  ]
+}

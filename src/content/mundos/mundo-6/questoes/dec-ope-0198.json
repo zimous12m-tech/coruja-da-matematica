@@ -1,0 +1,34 @@
+{
+  "id": "dec-ope-0198",
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "subtipo": "adicao",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 7,6 + 7,3?",
+    "en": "What is 7.6 + 7.3?",
+    "pt-BR": "Quanto é 7,6 + 7,3?",
+    "es": "Quanto é 7,6 + 7,3?"
+  },
+  "opcoes": [
+    "15,9",
+    "14,9",
+    "0,2999999999999998",
+    "7,6"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "7,6 + 7,3 = 14,9.",
+    "en": "7.6 + 7.3 = 14.9.",
+    "pt-BR": "7,6 + 7,3 = 14,9.",
+    "es": "7,6 + 7,3 = 14,9."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ]
+}

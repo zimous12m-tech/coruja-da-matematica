@@ -1,0 +1,24 @@
+{
+  "id": "num-nat-0002",
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "subtipo": "arredondamento",
+  "dificuldade": 2,
+  "curriculo": ["PT_6ano_MAT_NUMEROS"],
+  "pergunta": {
+    "pt-PT": "Arredonda 467 às dezenas.",
+    "en": "Round 467 to the nearest ten.",
+    "pt-BR": "Arredonde 467 para as dezenas.",
+    "es": "Redondea 467 a las decenas."
+  },
+  "opcoes": ["470", "460", "467", "500"],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "O algarismo das unidades é 7, por isso arredonda para cima: 470.",
+    "en": "The units digit is 7, so we round up: 470.",
+    "pt-BR": "O algarismo das unidades é 7, por isso arredonda para cima: 470.",
+    "es": "El dígito de las unidades es 7, por eso redondea hacia arriba: 470."
+  },
+  "tempoSugerido": 30,
+  "tags": ["numeros", "arredondamento"]
+}

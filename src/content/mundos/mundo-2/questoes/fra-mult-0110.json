@@ -1,0 +1,34 @@
+{
+  "id": "fra-mult-0110",
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "subtipo": "multiplicacao",
+  "dificuldade": 1,
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 2/4 × 4/3?",
+    "en": "What is 2/4 × 4/3?",
+    "pt-BR": "Quanto é 2/4 × 4/3?",
+    "es": "Quanto é 2/4 × 4/3?"
+  },
+  "opcoes": [
+    "9/12",
+    "6/16",
+    "6/7",
+    "8/12"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "Multiplicam-se numeradores e denominadores: 8/12.",
+    "en": "Multiply numerators and denominators: 8/12.",
+    "pt-BR": "Multiplicam-se numeradores e denominadores: 8/12.",
+    "es": "Multiplicam-se numeradores e denominadores: 8/12."
+  },
+  "tempoSugerido": 35,
+  "tags": [
+    "fra-mult",
+    "gerado"
+  ]
+}

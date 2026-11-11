@@ -1,0 +1,34 @@
+{
+  "id": "pot-cal-0153",
+  "worldId": "mundo-3",
+  "topico": "potencias",
+  "subtipo": "calculo",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_POTENCIAS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 9 elevado a 4?",
+    "en": "What is 9 to the power of 4?",
+    "pt-BR": "Quanto é 9 elevado a 4?",
+    "es": "Quanto é 9 elevado a 4?"
+  },
+  "opcoes": [
+    "36",
+    "6552",
+    "6561",
+    "6570"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "9 × 9 × 9 × 9 = 6561.",
+    "en": "9 × 9 × 9 × 9 = 6561.",
+    "pt-BR": "9 × 9 × 9 × 9 = 6561.",
+    "es": "9 × 9 × 9 × 9 = 6561."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "pot-cal",
+    "gerado"
+  ]
+}

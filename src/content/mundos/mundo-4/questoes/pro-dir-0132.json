@@ -1,0 +1,34 @@
+{
+  "id": "pro-dir-0132",
+  "worldId": "mundo-4",
+  "topico": "proporcionalidade",
+  "subtipo": "direta",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_PROPORCIONALIDADE"
+  ],
+  "pergunta": {
+    "pt-PT": "Se 5 cadernos custam 30 €, quanto custam 8 cadernos iguais?",
+    "en": "If 5 notebooks cost 30 €, how much do 8 notebooks cost?",
+    "pt-BR": "Se 5 cadernos custam 30 €, quanto custam 8 cadernos iguais?",
+    "es": "Se 5 cadernos custam 30 €, quanto custam 8 cadernos iguais?"
+  },
+  "opcoes": [
+    "36",
+    "54",
+    "30",
+    "48"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "Um caderno custa 6 €. Para 8: 8 × 6 = 48 €.",
+    "en": "One notebook is 6 €. For 8: 8 × 6 = 48 €.",
+    "pt-BR": "Um caderno custa 6 €. Para 8: 8 × 6 = 48 €.",
+    "es": "Um caderno custa 6 €. Para 8: 8 × 6 = 48 €."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "pro-dir",
+    "gerado"
+  ]
+}

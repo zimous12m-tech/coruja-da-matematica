@@ -1,0 +1,34 @@
+{
+  "id": "fra-mult-0142",
+  "worldId": "mundo-2",
+  "topico": "fracoes",
+  "subtipo": "multiplicacao",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_FRACOES"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 2/2 × 4/2?",
+    "en": "What is 2/2 × 4/2?",
+    "pt-BR": "Quanto é 2/2 × 4/2?",
+    "es": "Quanto é 2/2 × 4/2?"
+  },
+  "opcoes": [
+    "9/4",
+    "6/4",
+    "8/4",
+    "4/8"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "Multiplicam-se numeradores e denominadores: 8/4.",
+    "en": "Multiply numerators and denominators: 8/4.",
+    "pt-BR": "Multiplicam-se numeradores e denominadores: 8/4.",
+    "es": "Multiplicam-se numeradores e denominadores: 8/4."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "fra-mult",
+    "gerado"
+  ]
+}

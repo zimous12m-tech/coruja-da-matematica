@@ -1,0 +1,34 @@
+{
+  "id": "prob-cal-0123",
+  "worldId": "mundo-5",
+  "topico": "probabilidades",
+  "subtipo": "calculo",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_PROBABILIDADES"
+  ],
+  "pergunta": {
+    "pt-PT": "Um saco tem 7 bolas verdes e 3 azuis. Qual é a probabilidade de tirar verde?",
+    "en": "A bag has 7 green and 3 blue balls. What is the probability of drawing green?",
+    "pt-BR": "Um saco tem 7 bolas verdes e 3 azuis. Qual é a probabilidade de tirar verde?",
+    "es": "Um saco tem 7 bolas verdes e 3 azuis. Qual é a probabilidade de tirar verde?"
+  },
+  "opcoes": [
+    "7/10",
+    "3/10",
+    "8/10",
+    "7/3"
+  ],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "7 casos favoráveis em 10: 7/10.",
+    "en": "7 favourable out of 10: 7/10.",
+    "pt-BR": "7 casos favoráveis em 10: 7/10.",
+    "es": "7 casos favoráveis em 10: 7/10."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "prob-cal",
+    "gerado"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "dec-ope-0181",
+  "worldId": "mundo-6",
+  "topico": "decimais",
+  "subtipo": "adicao",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_DECIMAIS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 7,7 + 8,6?",
+    "en": "What is 7.7 + 8.6?",
+    "pt-BR": "Quanto é 7,7 + 8,6?",
+    "es": "Quanto é 7,7 + 8,6?"
+  },
+  "opcoes": [
+    "17,3",
+    "0,8999999999999995",
+    "7,7",
+    "16,3"
+  ],
+  "resposta": 3,
+  "explicacao": {
+    "pt-PT": "7,7 + 8,6 = 16,3.",
+    "en": "7.7 + 8.6 = 16.3.",
+    "pt-BR": "7,7 + 8,6 = 16,3.",
+    "es": "7,7 + 8,6 = 16,3."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "dec-ope",
+    "gerado"
+  ]
+}

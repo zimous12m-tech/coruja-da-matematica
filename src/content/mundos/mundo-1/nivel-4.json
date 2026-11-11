@@ -1,0 +1,22 @@
+{
+  "id": "mundo-1-nivel-4",
+  "worldId": "mundo-1",
+  "titulo": {
+    "pt-PT": "Nível 4",
+    "en": "Level 4"
+  },
+  "boss": false,
+  "tempoSugerido": 230,
+  "questionIds": [
+    "num-int-0134",
+    "num-int-0135",
+    "num-int-0137",
+    "num-int-0138",
+    "num-int-0139",
+    "num-nat-0140",
+    "num-int-0141",
+    "num-nat-0143",
+    "num-int-0144",
+    "num-nat-0145"
+  ]
+}

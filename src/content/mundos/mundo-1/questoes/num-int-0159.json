@@ -1,0 +1,34 @@
+{
+  "id": "num-int-0159",
+  "worldId": "mundo-1",
+  "topico": "inteiros",
+  "subtipo": "soma",
+  "dificuldade": 3,
+  "curriculo": [
+    "PT_6ano_MAT_INTEIROS"
+  ],
+  "pergunta": {
+    "pt-PT": "Quanto é 9 − 14?",
+    "en": "What is 9 − 14?",
+    "pt-BR": "Quanto é 9 − 14?",
+    "es": "Quanto é 9 − 14?"
+  },
+  "opcoes": [
+    "23",
+    "-5",
+    "5",
+    "-4"
+  ],
+  "resposta": 1,
+  "explicacao": {
+    "pt-PT": "9 − 14 = -5.",
+    "en": "9 − 14 = -5.",
+    "pt-BR": "9 − 14 = -5.",
+    "es": "9 − 14 = -5."
+  },
+  "tempoSugerido": 65,
+  "tags": [
+    "num-int",
+    "gerado"
+  ]
+}

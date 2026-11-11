@@ -1,0 +1,34 @@
+{
+  "id": "num-nat-0127",
+  "worldId": "mundo-1",
+  "topico": "numeros",
+  "subtipo": "valor-posicional",
+  "dificuldade": 2,
+  "curriculo": [
+    "PT_6ano_MAT_NUMEROS"
+  ],
+  "pergunta": {
+    "pt-PT": "No número 24253, qual é o valor do algarismo 4?",
+    "en": "In the number 24253, what is the value of the digit 4?",
+    "pt-BR": "No número 24253, qual é o valor do algarismo 4?",
+    "es": "No número 24253, qual é o valor do algarismo 4?"
+  },
+  "opcoes": [
+    "4",
+    "5000",
+    "4000",
+    "40000"
+  ],
+  "resposta": 2,
+  "explicacao": {
+    "pt-PT": "O 4 está na ordem das milhares, por isso vale 4000.",
+    "en": "The 4 is in the thousands place, so it is worth 4000.",
+    "pt-BR": "O 4 está na ordem das milhares, por isso vale 4000.",
+    "es": "O 4 está na ordem das milhares, por isso vale 4000."
+  },
+  "tempoSugerido": 50,
+  "tags": [
+    "num-nat",
+    "gerado"
+  ]
+}

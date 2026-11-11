@@ -1,0 +1,24 @@
+{
+  "id": "est-med-0002",
+  "worldId": "mundo-5",
+  "topico": "estatistica",
+  "subtipo": "media",
+  "dificuldade": 2,
+  "curriculo": ["PT_6ano_MAT_ESTATISTICA"],
+  "pergunta": {
+    "pt-PT": "Qual é a média de 3, 5, 7 e 9?",
+    "en": "What is the mean of 3, 5, 7 and 9?",
+    "pt-BR": "Qual é a média de 3, 5, 7 e 9?",
+    "es": "¿Cuál es la media de 3, 5, 7 y 9?"
+  },
+  "opcoes": ["6", "5", "7", "24"],
+  "resposta": 0,
+  "explicacao": {
+    "pt-PT": "Soma = 24. Divide por 4: 24 ÷ 4 = 6.",
+    "en": "Sum = 24. Divide by 4: 24 ÷ 4 = 6.",
+    "pt-BR": "Soma = 24. Divide por 4: 24 ÷ 4 = 6.",
+    "es": "Suma = 24. Divide por 4: 24 ÷ 4 = 6."
+  },
+  "tempoSugerido": 30,
+  "tags": ["estatistica", "media"]
+}
